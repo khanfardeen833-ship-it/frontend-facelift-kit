@@ -1,0 +1,220 @@
+{
+  "all_ranked_candidates": [
+    {
+      "file_path": "approved_tickets\\74b689da3b_Senior-ML-engineer\\Aman_20250922_073128.pdf",
+      "filename": "Aman_20250922_073128.pdf",
+      "final_score": 0.08000000000000002,
+      "skill_score": 0.2,
+      "experience_score": 0.0,
+      "location_score": 0.0,
+      "professional_development_score": 0.0,
+      "similarity_score": 0.0,
+      "matched_skills": [
+        "sql"
+      ],
+      "detailed_skill_matches": {
+        "sql": [
+          "sql"
+        ]
+      },
+      "detected_experience_years": 0,
+      "professional_development": {
+        "professional_development_score": 0.0,
+        "professional_development_level": "Minimal - Little evidence of continuous learning",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.0,
+            "certification_count": 0,
+            "recent_certification_score": 0.0,
+            "certifications_found": [],
+            "certification_categories": {},
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 0.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [],
+            "github_activity": null
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 0,
+          "certification_categories": [],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": false,
+          "content_types": [],
+          "continuous_learner": false,
+          "key_highlights": []
+        }
+      },
+      "additional_features": {
+        "education_level": 3,
+        "has_certifications": false,
+        "leadership_experience": 0
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "Senior ML engineer",
+        "required_skills": [
+          "python",
+          "sql",
+          "ml",
+          "dl",
+          "nlp"
+        ],
+        "required_experience": "2 to 5",
+        "location": "Pundri"
+      },
+      "candidate_id": "39be3909dd32",
+      "has_duplicates": false,
+      "duplicate_count": 0,
+      "duplicates": [],
+      "exact_skill_bonus": 0.0,
+      "certification_bonus": 0,
+      "leadership_bonus": 0.0,
+      "adjusted_score": 0.08000000000000002,
+      "final_rank": 1,
+      "is_duplicate_group": false,
+      "selection_reason": "Moderate skill match"
+    },
+    {
+      "file_path": "approved_tickets\\74b689da3b_Senior-ML-engineer\\WALID_20250922_132424.pdf",
+      "filename": "WALID_20250922_132424.pdf",
+      "final_score": 0.0,
+      "skill_score": 0.0,
+      "experience_score": 0.0,
+      "location_score": 0.0,
+      "professional_development_score": 0.0,
+      "similarity_score": 0.051131256880242115,
+      "matched_skills": [],
+      "detailed_skill_matches": {},
+      "detected_experience_years": 0,
+      "professional_development": {
+        "professional_development_score": 0.0,
+        "professional_development_level": "Minimal - Little evidence of continuous learning",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.0,
+            "certification_count": 0,
+            "recent_certification_score": 0.0,
+            "certifications_found": [],
+            "certification_categories": {},
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 0.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [],
+            "github_activity": null
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 0,
+          "certification_categories": [],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": false,
+          "content_types": [],
+          "continuous_learner": false,
+          "key_highlights": []
+        }
+      },
+      "additional_features": {
+        "education_level": 0,
+        "has_certifications": false,
+        "leadership_experience": 0
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "Senior ML engineer",
+        "required_skills": [
+          "python",
+          "sql",
+          "ml",
+          "dl",
+          "nlp"
+        ],
+        "required_experience": "2 to 5",
+        "location": "Pundri"
+      },
+      "candidate_id": "a5777674cb2a",
+      "has_duplicates": false,
+      "duplicate_count": 0,
+      "duplicates": [],
+      "exact_skill_bonus": 0.0,
+      "certification_bonus": 0,
+      "leadership_bonus": 0.0,
+      "adjusted_score": 0.0,
+      "final_rank": 2,
+      "is_duplicate_group": false,
+      "selection_reason": "Moderate skill match"
+    }
+  ],
+  "selection_criteria": "Algorithmic scoring based on skills, experience, professional development, and additional features",
+  "scoring_method": "Pure algorithmic approach without LLM"
+}

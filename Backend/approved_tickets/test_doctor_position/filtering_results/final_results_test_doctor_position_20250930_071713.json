@@ -1,0 +1,3289 @@
+{
+  "ticket_id": "test_doctor_position",
+  "position": "Cardiologist - Internal Medicine",
+  "timestamp": "2025-09-30T07:17:13.733761",
+  "job_status": "active",
+  "requirements_last_updated": "",
+  "latest_requirements": {
+    "experience": "5-8 years post-residency",
+    "tech_stack": [
+      "Patient Care",
+      "HIPAA Compliance",
+      "Medical Research",
+      "Clinical Diagnosis",
+      "Echocardiography",
+      "Stress Testing",
+      "Cardiovascular Disease Management",
+      "Internal Medicine",
+      "EMR/EHR Systems",
+      "Board Certification in Cardiology"
+    ],
+    "location": "New York, USA",
+    "salary": "$250,000 - $400,000 per year",
+    "deadline": "31/01/2026"
+  },
+  "summary": {
+    "total_resumes": 5,
+    "unique_candidates": 5,
+    "duplicate_groups_found": 1,
+    "stage1_selected": 5,
+    "final_selected": 5,
+    "duplicate_banner_message": "\u26a0\ufe0f DUPLICATE RESUME DETECTED: 1 duplicate group(s) found! Duplicate candidates have been assigned the same rank."
+  },
+  "duplicate_detection": {
+    "total_resumes_submitted": 5,
+    "unique_candidates": 5,
+    "duplicate_groups_found": 1,
+    "duplicate_groups": [
+      {
+        "group_size": 2,
+        "filenames": [
+          "dr_sarah_johnson.txt",
+          "sarah_johnson_resume_updated.txt"
+        ]
+      }
+    ]
+  },
+  "stage1_results": {
+    "all_resumes": [
+      {
+        "file_path": "approved_tickets\\test_doctor_position\\dr_sarah_johnson.txt",
+        "filename": "dr_sarah_johnson.txt",
+        "final_score": 0.7023809523809523,
+        "skill_score": 0.7857142857142857,
+        "experience_score": 1.0,
+        "location_score": 0.0,
+        "professional_development_score": 0.0,
+        "certification_score": 0.3333333333333333,
+        "education_score": 1.0,
+        "similarity_score": 0.2500170276160306,
+        "matched_skills": [
+          "Patient Care",
+          "HIPAA Compliance",
+          "Medical Research",
+          "Echocardiography",
+          "Stress Testing",
+          "Cardiovascular Disease Management",
+          "Internal Medicine",
+          "EMR/EHR Systems",
+          "Board Certification in Cardiology",
+          "State Medical License",
+          "On-call Availability"
+        ],
+        "matched_certifications": [
+          "State Medical License"
+        ],
+        "detailed_skill_matches": {
+          "Patient Care": [
+            "patient care"
+          ],
+          "HIPAA Compliance": [
+            "HIPAA compliance"
+          ],
+          "Medical Research": [
+            "clinical research"
+          ],
+          "Echocardiography": [
+            "echocardiography"
+          ],
+          "Stress Testing": [
+            "stress testing"
+          ],
+          "Cardiovascular Disease Management": [
+            "cardiovascular disease management"
+          ],
+          "Internal Medicine": [
+            "internal medicine",
+            "general medicine"
+          ],
+          "EMR/EHR Systems": [
+            "electronic medical records"
+          ],
+          "Board Certification in Cardiology": [
+            "certified cardiologist"
+          ],
+          "State Medical License": [
+            "state medical license"
+          ],
+          "On-call Availability": [
+            "on-call responsibilities"
+          ]
+        },
+        "detected_experience_years": 7,
+        "professional_development": {
+          "professional_development_score": 0.0,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.3,
+          "experience": 0.3,
+          "location": 0.1,
+          "certifications": 0.2,
+          "education": 0.1
+        },
+        "job_category": "Healthcare",
+        "job_subcategory": "Cardiologist",
+        "privacy_mode": "ENABLED - All candidate data processed locally",
+        "job_requirements_used": {
+          "position": "Cardiologist - Internal Medicine",
+          "required_skills": [
+            "Patient Care",
+            "HIPAA Compliance",
+            "Medical Research",
+            "Clinical Diagnosis",
+            "Echocardiography",
+            "Stress Testing",
+            "Cardiovascular Disease Management",
+            "Internal Medicine",
+            "EMR/EHR Systems",
+            "Board Certification in Cardiology",
+            "State Medical License",
+            "Strong Communication Skills",
+            "Commitment to Patient-Centered Care",
+            "On-call Availability"
+          ],
+          "required_certifications": [
+            "Medical Degree (MD/DO)",
+            "Board Certification in Cardiology",
+            "State Medical License"
+          ],
+          "required_experience": "5-8 years post-residency",
+          "location": "New York, USA"
+        },
+        "candidate_id": "c937b42ed26d",
+        "has_duplicates": true,
+        "duplicate_count": 1,
+        "duplicates": [
+          "sarah_johnson_resume_updated.txt"
+        ],
+        "exact_skill_bonus": 0.0,
+        "certification_bonus": 0.1,
+        "leadership_bonus": 0.0,
+        "adjusted_score": 0.8023809523809523,
+        "final_rank": 1,
+        "is_duplicate_group": true,
+        "duplicate_group_rank": 1,
+        "selection_reason": "Good skill match; perfect experience fit; has relevant certifications"
+      },
+      {
+        "file_path": "approved_tickets\\test_doctor_position\\dr_orthopedic_wrong_specialty.txt",
+        "filename": "dr_orthopedic_wrong_specialty.txt",
+        "final_score": 0.6166666666666666,
+        "skill_score": 0.5,
+        "experience_score": 1.0,
+        "location_score": 0.0,
+        "professional_development_score": 0.0,
+        "certification_score": 0.3333333333333333,
+        "education_score": 1.0,
+        "similarity_score": 0.09208601426956924,
+        "matched_skills": [
+          "HIPAA Compliance",
+          "Echocardiography",
+          "Stress Testing",
+          "Cardiovascular Disease Management",
+          "EMR/EHR Systems",
+          "Board Certification in Cardiology",
+          "State Medical License"
+        ],
+        "matched_certifications": [
+          "State Medical License"
+        ],
+        "detailed_skill_matches": {
+          "HIPAA Compliance": [
+            "HIPAA compliance"
+          ],
+          "Echocardiography": [
+            "echocardiography"
+          ],
+          "Stress Testing": [
+            "stress testing"
+          ],
+          "Cardiovascular Disease Management": [
+            "cardiovascular disease management"
+          ],
+          "EMR/EHR Systems": [
+            "EMR systems"
+          ],
+          "Board Certification in Cardiology": [
+            "board certification in cardiology"
+          ],
+          "State Medical License": [
+            "state medical license"
+          ]
+        },
+        "detected_experience_years": 8,
+        "professional_development": {
+          "professional_development_score": 0.0,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 1
+        },
+        "scoring_weights": {
+          "skills": 0.3,
+          "experience": 0.3,
+          "location": 0.1,
+          "certifications": 0.2,
+          "education": 0.1
+        },
+        "job_category": "Healthcare",
+        "job_subcategory": "Cardiologist",
+        "privacy_mode": "ENABLED - All candidate data processed locally",
+        "job_requirements_used": {
+          "position": "Cardiologist - Internal Medicine",
+          "required_skills": [
+            "Patient Care",
+            "HIPAA Compliance",
+            "Medical Research",
+            "Clinical Diagnosis",
+            "Echocardiography",
+            "Stress Testing",
+            "Cardiovascular Disease Management",
+            "Internal Medicine",
+            "EMR/EHR Systems",
+            "Board Certification in Cardiology",
+            "State Medical License",
+            "Strong Communication Skills",
+            "Commitment to Patient-Centered Care",
+            "On-call Availability"
+          ],
+          "required_certifications": [
+            "Medical Degree (MD/DO)",
+            "Board Certification in Cardiology",
+            "State Medical License"
+          ],
+          "required_experience": "5-8 years post-residency",
+          "location": "New York, USA"
+        },
+        "candidate_id": "835819645ca1",
+        "has_duplicates": false,
+        "duplicate_count": 0,
+        "duplicates": [],
+        "exact_skill_bonus": 0.0,
+        "certification_bonus": 0.1,
+        "leadership_bonus": 0.02,
+        "adjusted_score": 0.7366666666666666,
+        "final_rank": 2,
+        "is_duplicate_group": false,
+        "selection_reason": "Moderate skill match; perfect experience fit; has relevant certifications; leadership experience"
+      },
+      {
+        "file_path": "approved_tickets\\test_doctor_position\\dr_michael_chen.txt",
+        "filename": "dr_michael_chen.txt",
+        "final_score": 0.5714285714285714,
+        "skill_score": 0.5714285714285714,
+        "experience_score": 1.0,
+        "location_score": 0.0,
+        "professional_development_score": 0.0,
+        "certification_score": 0.0,
+        "education_score": 1.0,
+        "similarity_score": 0.1196664004603408,
+        "matched_skills": [
+          "Patient Care",
+          "HIPAA Compliance",
+          "Medical Research",
+          "Echocardiography",
+          "Stress Testing",
+          "Internal Medicine",
+          "Board Certification in Cardiology",
+          "State Medical License"
+        ],
+        "matched_certifications": [],
+        "detailed_skill_matches": {
+          "Patient Care": [
+            "patient care"
+          ],
+          "HIPAA Compliance": [
+            "HIPAA compliance"
+          ],
+          "Medical Research": [
+            "medical research"
+          ],
+          "Echocardiography": [
+            "echocardiography"
+          ],
+          "Stress Testing": [
+            "stress testing"
+          ],
+          "Internal Medicine": [
+            "internal medicine",
+            "general medicine"
+          ],
+          "Board Certification in Cardiology": [
+            "board certification in cardiology"
+          ],
+          "State Medical License": [
+            "state medical license"
+          ]
+        },
+        "detected_experience_years": 6,
+        "professional_development": {
+          "professional_development_score": 0.0,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.3,
+          "experience": 0.3,
+          "location": 0.1,
+          "certifications": 0.2,
+          "education": 0.1
+        },
+        "job_category": "Healthcare",
+        "job_subcategory": "Cardiologist",
+        "privacy_mode": "ENABLED - All candidate data processed locally",
+        "job_requirements_used": {
+          "position": "Cardiologist - Internal Medicine",
+          "required_skills": [
+            "Patient Care",
+            "HIPAA Compliance",
+            "Medical Research",
+            "Clinical Diagnosis",
+            "Echocardiography",
+            "Stress Testing",
+            "Cardiovascular Disease Management",
+            "Internal Medicine",
+            "EMR/EHR Systems",
+            "Board Certification in Cardiology",
+            "State Medical License",
+            "Strong Communication Skills",
+            "Commitment to Patient-Centered Care",
+            "On-call Availability"
+          ],
+          "required_certifications": [
+            "Medical Degree (MD/DO)",
+            "Board Certification in Cardiology",
+            "State Medical License"
+          ],
+          "required_experience": "5-8 years post-residency",
+          "location": "New York, USA"
+        },
+        "candidate_id": "106086016c26",
+        "has_duplicates": false,
+        "duplicate_count": 0,
+        "duplicates": [],
+        "exact_skill_bonus": 0.0,
+        "certification_bonus": 0.1,
+        "leadership_bonus": 0.0,
+        "adjusted_score": 0.6714285714285714,
+        "final_rank": 3,
+        "is_duplicate_group": false,
+        "selection_reason": "Moderate skill match; perfect experience fit; has relevant certifications"
+      },
+      {
+        "file_path": "approved_tickets\\test_doctor_position\\sarah_johnson_resume_updated.txt",
+        "filename": "sarah_johnson_resume_updated.txt",
+        "final_score": 0.5499999999999999,
+        "skill_score": 0.5,
+        "experience_score": 1.0,
+        "location_score": 0.0,
+        "professional_development_score": 0.0,
+        "certification_score": 0.0,
+        "education_score": 1.0,
+        "similarity_score": 0.1334613958085327,
+        "matched_skills": [
+          "HIPAA Compliance",
+          "Echocardiography",
+          "Stress Testing",
+          "Cardiovascular Disease Management",
+          "Internal Medicine",
+          "EMR/EHR Systems",
+          "Board Certification in Cardiology"
+        ],
+        "matched_certifications": [],
+        "detailed_skill_matches": {
+          "HIPAA Compliance": [
+            "HIPAA compliance"
+          ],
+          "Echocardiography": [
+            "echocardiography"
+          ],
+          "Stress Testing": [
+            "stress testing"
+          ],
+          "Cardiovascular Disease Management": [
+            "cardiovascular disease management"
+          ],
+          "Internal Medicine": [
+            "internal medicine"
+          ],
+          "EMR/EHR Systems": [
+            "EMR systems"
+          ],
+          "Board Certification in Cardiology": [
+            "certified cardiologist"
+          ]
+        },
+        "detected_experience_years": 5,
+        "professional_development": {
+          "professional_development_score": 0.0,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.3,
+          "experience": 0.3,
+          "location": 0.1,
+          "certifications": 0.2,
+          "education": 0.1
+        },
+        "job_category": "Healthcare",
+        "job_subcategory": "Cardiologist",
+        "privacy_mode": "ENABLED - All candidate data processed locally",
+        "job_requirements_used": {
+          "position": "Cardiologist - Internal Medicine",
+          "required_skills": [
+            "Patient Care",
+            "HIPAA Compliance",
+            "Medical Research",
+            "Clinical Diagnosis",
+            "Echocardiography",
+            "Stress Testing",
+            "Cardiovascular Disease Management",
+            "Internal Medicine",
+            "EMR/EHR Systems",
+            "Board Certification in Cardiology",
+            "State Medical License",
+            "Strong Communication Skills",
+            "Commitment to Patient-Centered Care",
+            "On-call Availability"
+          ],
+          "required_certifications": [
+            "Medical Degree (MD/DO)",
+            "Board Certification in Cardiology",
+            "State Medical License"
+          ],
+          "required_experience": "5-8 years post-residency",
+          "location": "New York, USA"
+        },
+        "candidate_id": "de67ec0f7437",
+        "has_duplicates": false,
+        "duplicate_count": 0,
+        "duplicates": [],
+        "duplicate_of": "dr_sarah_johnson.txt",
+        "exact_skill_bonus": 0.0,
+        "certification_bonus": 0.1,
+        "leadership_bonus": 0.0,
+        "adjusted_score": 0.6499999999999999,
+        "final_rank": 1,
+        "is_duplicate_group": true,
+        "duplicate_group_rank": 1,
+        "selection_reason": "Moderate skill match; perfect experience fit; has relevant certifications"
+      },
+      {
+        "file_path": "approved_tickets\\test_doctor_position\\dr_emily_rodriguez_junior.txt",
+        "filename": "dr_emily_rodriguez_junior.txt",
+        "final_score": 0.4471428571428572,
+        "skill_score": 0.35714285714285715,
+        "experience_score": 0.8,
+        "location_score": 0.0,
+        "professional_development_score": 0.0,
+        "certification_score": 0.0,
+        "education_score": 1.0,
+        "similarity_score": 0.10930901224710113,
+        "matched_skills": [
+          "Patient Care",
+          "Echocardiography",
+          "Internal Medicine",
+          "EMR/EHR Systems",
+          "Board Certification in Cardiology"
+        ],
+        "matched_certifications": [],
+        "detailed_skill_matches": {
+          "Patient Care": [
+            "patient care"
+          ],
+          "Echocardiography": [
+            "echocardiography"
+          ],
+          "Internal Medicine": [
+            "internal medicine",
+            "general medicine"
+          ],
+          "EMR/EHR Systems": [
+            "electronic medical records"
+          ],
+          "Board Certification in Cardiology": [
+            "board certification in cardiology"
+          ]
+        },
+        "detected_experience_years": 4,
+        "professional_development": {
+          "professional_development_score": 0.0,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 2,
+          "has_certifications": true,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.3,
+          "experience": 0.3,
+          "location": 0.1,
+          "certifications": 0.2,
+          "education": 0.1
+        },
+        "job_category": "Healthcare",
+        "job_subcategory": "Cardiologist",
+        "privacy_mode": "ENABLED - All candidate data processed locally",
+        "job_requirements_used": {
+          "position": "Cardiologist - Internal Medicine",
+          "required_skills": [
+            "Patient Care",
+            "HIPAA Compliance",
+            "Medical Research",
+            "Clinical Diagnosis",
+            "Echocardiography",
+            "Stress Testing",
+            "Cardiovascular Disease Management",
+            "Internal Medicine",
+            "EMR/EHR Systems",
+            "Board Certification in Cardiology",
+            "State Medical License",
+            "Strong Communication Skills",
+            "Commitment to Patient-Centered Care",
+            "On-call Availability"
+          ],
+          "required_certifications": [
+            "Medical Degree (MD/DO)",
+            "Board Certification in Cardiology",
+            "State Medical License"
+          ],
+          "required_experience": "5-8 years post-residency",
+          "location": "New York, USA"
+        },
+        "candidate_id": "ffecff831f5e",
+        "has_duplicates": false,
+        "duplicate_count": 0,
+        "duplicates": [],
+        "exact_skill_bonus": 0.0,
+        "certification_bonus": 0.1,
+        "leadership_bonus": 0.0,
+        "adjusted_score": 0.5471428571428572,
+        "final_rank": 4,
+        "is_duplicate_group": false,
+        "selection_reason": "Moderate skill match; good experience level; has relevant certifications"
+      }
+    ],
+    "all_ranked_candidates": [
+      {
+        "file_path": "approved_tickets\\test_doctor_position\\dr_sarah_johnson.txt",
+        "filename": "dr_sarah_johnson.txt",
+        "final_score": 0.7023809523809523,
+        "skill_score": 0.7857142857142857,
+        "experience_score": 1.0,
+        "location_score": 0.0,
+        "professional_development_score": 0.0,
+        "certification_score": 0.3333333333333333,
+        "education_score": 1.0,
+        "similarity_score": 0.2500170276160306,
+        "matched_skills": [
+          "Patient Care",
+          "HIPAA Compliance",
+          "Medical Research",
+          "Echocardiography",
+          "Stress Testing",
+          "Cardiovascular Disease Management",
+          "Internal Medicine",
+          "EMR/EHR Systems",
+          "Board Certification in Cardiology",
+          "State Medical License",
+          "On-call Availability"
+        ],
+        "matched_certifications": [
+          "State Medical License"
+        ],
+        "detailed_skill_matches": {
+          "Patient Care": [
+            "patient care"
+          ],
+          "HIPAA Compliance": [
+            "HIPAA compliance"
+          ],
+          "Medical Research": [
+            "clinical research"
+          ],
+          "Echocardiography": [
+            "echocardiography"
+          ],
+          "Stress Testing": [
+            "stress testing"
+          ],
+          "Cardiovascular Disease Management": [
+            "cardiovascular disease management"
+          ],
+          "Internal Medicine": [
+            "internal medicine",
+            "general medicine"
+          ],
+          "EMR/EHR Systems": [
+            "electronic medical records"
+          ],
+          "Board Certification in Cardiology": [
+            "certified cardiologist"
+          ],
+          "State Medical License": [
+            "state medical license"
+          ],
+          "On-call Availability": [
+            "on-call responsibilities"
+          ]
+        },
+        "detected_experience_years": 7,
+        "professional_development": {
+          "professional_development_score": 0.0,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.3,
+          "experience": 0.3,
+          "location": 0.1,
+          "certifications": 0.2,
+          "education": 0.1
+        },
+        "job_category": "Healthcare",
+        "job_subcategory": "Cardiologist",
+        "privacy_mode": "ENABLED - All candidate data processed locally",
+        "job_requirements_used": {
+          "position": "Cardiologist - Internal Medicine",
+          "required_skills": [
+            "Patient Care",
+            "HIPAA Compliance",
+            "Medical Research",
+            "Clinical Diagnosis",
+            "Echocardiography",
+            "Stress Testing",
+            "Cardiovascular Disease Management",
+            "Internal Medicine",
+            "EMR/EHR Systems",
+            "Board Certification in Cardiology",
+            "State Medical License",
+            "Strong Communication Skills",
+            "Commitment to Patient-Centered Care",
+            "On-call Availability"
+          ],
+          "required_certifications": [
+            "Medical Degree (MD/DO)",
+            "Board Certification in Cardiology",
+            "State Medical License"
+          ],
+          "required_experience": "5-8 years post-residency",
+          "location": "New York, USA"
+        },
+        "candidate_id": "c937b42ed26d",
+        "has_duplicates": true,
+        "duplicate_count": 1,
+        "duplicates": [
+          "sarah_johnson_resume_updated.txt"
+        ],
+        "exact_skill_bonus": 0.0,
+        "certification_bonus": 0.1,
+        "leadership_bonus": 0.0,
+        "adjusted_score": 0.8023809523809523,
+        "final_rank": 1,
+        "is_duplicate_group": true,
+        "duplicate_group_rank": 1,
+        "selection_reason": "Good skill match; perfect experience fit; has relevant certifications"
+      },
+      {
+        "file_path": "approved_tickets\\test_doctor_position\\dr_orthopedic_wrong_specialty.txt",
+        "filename": "dr_orthopedic_wrong_specialty.txt",
+        "final_score": 0.6166666666666666,
+        "skill_score": 0.5,
+        "experience_score": 1.0,
+        "location_score": 0.0,
+        "professional_development_score": 0.0,
+        "certification_score": 0.3333333333333333,
+        "education_score": 1.0,
+        "similarity_score": 0.09208601426956924,
+        "matched_skills": [
+          "HIPAA Compliance",
+          "Echocardiography",
+          "Stress Testing",
+          "Cardiovascular Disease Management",
+          "EMR/EHR Systems",
+          "Board Certification in Cardiology",
+          "State Medical License"
+        ],
+        "matched_certifications": [
+          "State Medical License"
+        ],
+        "detailed_skill_matches": {
+          "HIPAA Compliance": [
+            "HIPAA compliance"
+          ],
+          "Echocardiography": [
+            "echocardiography"
+          ],
+          "Stress Testing": [
+            "stress testing"
+          ],
+          "Cardiovascular Disease Management": [
+            "cardiovascular disease management"
+          ],
+          "EMR/EHR Systems": [
+            "EMR systems"
+          ],
+          "Board Certification in Cardiology": [
+            "board certification in cardiology"
+          ],
+          "State Medical License": [
+            "state medical license"
+          ]
+        },
+        "detected_experience_years": 8,
+        "professional_development": {
+          "professional_development_score": 0.0,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 1
+        },
+        "scoring_weights": {
+          "skills": 0.3,
+          "experience": 0.3,
+          "location": 0.1,
+          "certifications": 0.2,
+          "education": 0.1
+        },
+        "job_category": "Healthcare",
+        "job_subcategory": "Cardiologist",
+        "privacy_mode": "ENABLED - All candidate data processed locally",
+        "job_requirements_used": {
+          "position": "Cardiologist - Internal Medicine",
+          "required_skills": [
+            "Patient Care",
+            "HIPAA Compliance",
+            "Medical Research",
+            "Clinical Diagnosis",
+            "Echocardiography",
+            "Stress Testing",
+            "Cardiovascular Disease Management",
+            "Internal Medicine",
+            "EMR/EHR Systems",
+            "Board Certification in Cardiology",
+            "State Medical License",
+            "Strong Communication Skills",
+            "Commitment to Patient-Centered Care",
+            "On-call Availability"
+          ],
+          "required_certifications": [
+            "Medical Degree (MD/DO)",
+            "Board Certification in Cardiology",
+            "State Medical License"
+          ],
+          "required_experience": "5-8 years post-residency",
+          "location": "New York, USA"
+        },
+        "candidate_id": "835819645ca1",
+        "has_duplicates": false,
+        "duplicate_count": 0,
+        "duplicates": [],
+        "exact_skill_bonus": 0.0,
+        "certification_bonus": 0.1,
+        "leadership_bonus": 0.02,
+        "adjusted_score": 0.7366666666666666,
+        "final_rank": 2,
+        "is_duplicate_group": false,
+        "selection_reason": "Moderate skill match; perfect experience fit; has relevant certifications; leadership experience"
+      },
+      {
+        "file_path": "approved_tickets\\test_doctor_position\\dr_michael_chen.txt",
+        "filename": "dr_michael_chen.txt",
+        "final_score": 0.5714285714285714,
+        "skill_score": 0.5714285714285714,
+        "experience_score": 1.0,
+        "location_score": 0.0,
+        "professional_development_score": 0.0,
+        "certification_score": 0.0,
+        "education_score": 1.0,
+        "similarity_score": 0.1196664004603408,
+        "matched_skills": [
+          "Patient Care",
+          "HIPAA Compliance",
+          "Medical Research",
+          "Echocardiography",
+          "Stress Testing",
+          "Internal Medicine",
+          "Board Certification in Cardiology",
+          "State Medical License"
+        ],
+        "matched_certifications": [],
+        "detailed_skill_matches": {
+          "Patient Care": [
+            "patient care"
+          ],
+          "HIPAA Compliance": [
+            "HIPAA compliance"
+          ],
+          "Medical Research": [
+            "medical research"
+          ],
+          "Echocardiography": [
+            "echocardiography"
+          ],
+          "Stress Testing": [
+            "stress testing"
+          ],
+          "Internal Medicine": [
+            "internal medicine",
+            "general medicine"
+          ],
+          "Board Certification in Cardiology": [
+            "board certification in cardiology"
+          ],
+          "State Medical License": [
+            "state medical license"
+          ]
+        },
+        "detected_experience_years": 6,
+        "professional_development": {
+          "professional_development_score": 0.0,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.3,
+          "experience": 0.3,
+          "location": 0.1,
+          "certifications": 0.2,
+          "education": 0.1
+        },
+        "job_category": "Healthcare",
+        "job_subcategory": "Cardiologist",
+        "privacy_mode": "ENABLED - All candidate data processed locally",
+        "job_requirements_used": {
+          "position": "Cardiologist - Internal Medicine",
+          "required_skills": [
+            "Patient Care",
+            "HIPAA Compliance",
+            "Medical Research",
+            "Clinical Diagnosis",
+            "Echocardiography",
+            "Stress Testing",
+            "Cardiovascular Disease Management",
+            "Internal Medicine",
+            "EMR/EHR Systems",
+            "Board Certification in Cardiology",
+            "State Medical License",
+            "Strong Communication Skills",
+            "Commitment to Patient-Centered Care",
+            "On-call Availability"
+          ],
+          "required_certifications": [
+            "Medical Degree (MD/DO)",
+            "Board Certification in Cardiology",
+            "State Medical License"
+          ],
+          "required_experience": "5-8 years post-residency",
+          "location": "New York, USA"
+        },
+        "candidate_id": "106086016c26",
+        "has_duplicates": false,
+        "duplicate_count": 0,
+        "duplicates": [],
+        "exact_skill_bonus": 0.0,
+        "certification_bonus": 0.1,
+        "leadership_bonus": 0.0,
+        "adjusted_score": 0.6714285714285714,
+        "final_rank": 3,
+        "is_duplicate_group": false,
+        "selection_reason": "Moderate skill match; perfect experience fit; has relevant certifications"
+      },
+      {
+        "file_path": "approved_tickets\\test_doctor_position\\sarah_johnson_resume_updated.txt",
+        "filename": "sarah_johnson_resume_updated.txt",
+        "final_score": 0.5499999999999999,
+        "skill_score": 0.5,
+        "experience_score": 1.0,
+        "location_score": 0.0,
+        "professional_development_score": 0.0,
+        "certification_score": 0.0,
+        "education_score": 1.0,
+        "similarity_score": 0.1334613958085327,
+        "matched_skills": [
+          "HIPAA Compliance",
+          "Echocardiography",
+          "Stress Testing",
+          "Cardiovascular Disease Management",
+          "Internal Medicine",
+          "EMR/EHR Systems",
+          "Board Certification in Cardiology"
+        ],
+        "matched_certifications": [],
+        "detailed_skill_matches": {
+          "HIPAA Compliance": [
+            "HIPAA compliance"
+          ],
+          "Echocardiography": [
+            "echocardiography"
+          ],
+          "Stress Testing": [
+            "stress testing"
+          ],
+          "Cardiovascular Disease Management": [
+            "cardiovascular disease management"
+          ],
+          "Internal Medicine": [
+            "internal medicine"
+          ],
+          "EMR/EHR Systems": [
+            "EMR systems"
+          ],
+          "Board Certification in Cardiology": [
+            "certified cardiologist"
+          ]
+        },
+        "detected_experience_years": 5,
+        "professional_development": {
+          "professional_development_score": 0.0,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.3,
+          "experience": 0.3,
+          "location": 0.1,
+          "certifications": 0.2,
+          "education": 0.1
+        },
+        "job_category": "Healthcare",
+        "job_subcategory": "Cardiologist",
+        "privacy_mode": "ENABLED - All candidate data processed locally",
+        "job_requirements_used": {
+          "position": "Cardiologist - Internal Medicine",
+          "required_skills": [
+            "Patient Care",
+            "HIPAA Compliance",
+            "Medical Research",
+            "Clinical Diagnosis",
+            "Echocardiography",
+            "Stress Testing",
+            "Cardiovascular Disease Management",
+            "Internal Medicine",
+            "EMR/EHR Systems",
+            "Board Certification in Cardiology",
+            "State Medical License",
+            "Strong Communication Skills",
+            "Commitment to Patient-Centered Care",
+            "On-call Availability"
+          ],
+          "required_certifications": [
+            "Medical Degree (MD/DO)",
+            "Board Certification in Cardiology",
+            "State Medical License"
+          ],
+          "required_experience": "5-8 years post-residency",
+          "location": "New York, USA"
+        },
+        "candidate_id": "de67ec0f7437",
+        "has_duplicates": false,
+        "duplicate_count": 0,
+        "duplicates": [],
+        "duplicate_of": "dr_sarah_johnson.txt",
+        "exact_skill_bonus": 0.0,
+        "certification_bonus": 0.1,
+        "leadership_bonus": 0.0,
+        "adjusted_score": 0.6499999999999999,
+        "final_rank": 1,
+        "is_duplicate_group": true,
+        "duplicate_group_rank": 1,
+        "selection_reason": "Moderate skill match; perfect experience fit; has relevant certifications"
+      },
+      {
+        "file_path": "approved_tickets\\test_doctor_position\\dr_emily_rodriguez_junior.txt",
+        "filename": "dr_emily_rodriguez_junior.txt",
+        "final_score": 0.4471428571428572,
+        "skill_score": 0.35714285714285715,
+        "experience_score": 0.8,
+        "location_score": 0.0,
+        "professional_development_score": 0.0,
+        "certification_score": 0.0,
+        "education_score": 1.0,
+        "similarity_score": 0.10930901224710113,
+        "matched_skills": [
+          "Patient Care",
+          "Echocardiography",
+          "Internal Medicine",
+          "EMR/EHR Systems",
+          "Board Certification in Cardiology"
+        ],
+        "matched_certifications": [],
+        "detailed_skill_matches": {
+          "Patient Care": [
+            "patient care"
+          ],
+          "Echocardiography": [
+            "echocardiography"
+          ],
+          "Internal Medicine": [
+            "internal medicine",
+            "general medicine"
+          ],
+          "EMR/EHR Systems": [
+            "electronic medical records"
+          ],
+          "Board Certification in Cardiology": [
+            "board certification in cardiology"
+          ]
+        },
+        "detected_experience_years": 4,
+        "professional_development": {
+          "professional_development_score": 0.0,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 2,
+          "has_certifications": true,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.3,
+          "experience": 0.3,
+          "location": 0.1,
+          "certifications": 0.2,
+          "education": 0.1
+        },
+        "job_category": "Healthcare",
+        "job_subcategory": "Cardiologist",
+        "privacy_mode": "ENABLED - All candidate data processed locally",
+        "job_requirements_used": {
+          "position": "Cardiologist - Internal Medicine",
+          "required_skills": [
+            "Patient Care",
+            "HIPAA Compliance",
+            "Medical Research",
+            "Clinical Diagnosis",
+            "Echocardiography",
+            "Stress Testing",
+            "Cardiovascular Disease Management",
+            "Internal Medicine",
+            "EMR/EHR Systems",
+            "Board Certification in Cardiology",
+            "State Medical License",
+            "Strong Communication Skills",
+            "Commitment to Patient-Centered Care",
+            "On-call Availability"
+          ],
+          "required_certifications": [
+            "Medical Degree (MD/DO)",
+            "Board Certification in Cardiology",
+            "State Medical License"
+          ],
+          "required_experience": "5-8 years post-residency",
+          "location": "New York, USA"
+        },
+        "candidate_id": "ffecff831f5e",
+        "has_duplicates": false,
+        "duplicate_count": 0,
+        "duplicates": [],
+        "exact_skill_bonus": 0.0,
+        "certification_bonus": 0.1,
+        "leadership_bonus": 0.0,
+        "adjusted_score": 0.5471428571428572,
+        "final_rank": 4,
+        "is_duplicate_group": false,
+        "selection_reason": "Moderate skill match; good experience level; has relevant certifications"
+      }
+    ],
+    "scoring_criteria": {
+      "skills_required": [
+        "Patient Care",
+        "HIPAA Compliance",
+        "Medical Research",
+        "Clinical Diagnosis",
+        "Echocardiography",
+        "Stress Testing",
+        "Cardiovascular Disease Management",
+        "Internal Medicine",
+        "EMR/EHR Systems",
+        "Board Certification in Cardiology"
+      ],
+      "experience_range": "5-8 years post-residency",
+      "location": "New York, USA"
+    },
+    "duplicate_summary": {
+      "total_resumes_submitted": 5,
+      "unique_candidates": 5,
+      "duplicate_groups_found": 1,
+      "duplicate_groups": [
+        {
+          "group_size": 2,
+          "filenames": [
+            "dr_sarah_johnson.txt",
+            "sarah_johnson_resume_updated.txt"
+          ]
+        }
+      ]
+    },
+    "unique_candidates": 5,
+    "duplicate_groups_count": 1
+  },
+  "final_results": {
+    "all_ranked_candidates": [
+      {
+        "file_path": "approved_tickets\\test_doctor_position\\dr_sarah_johnson.txt",
+        "filename": "dr_sarah_johnson.txt",
+        "final_score": 0.7023809523809523,
+        "skill_score": 0.7857142857142857,
+        "experience_score": 1.0,
+        "location_score": 0.0,
+        "professional_development_score": 0.0,
+        "certification_score": 0.3333333333333333,
+        "education_score": 1.0,
+        "similarity_score": 0.2500170276160306,
+        "matched_skills": [
+          "Patient Care",
+          "HIPAA Compliance",
+          "Medical Research",
+          "Echocardiography",
+          "Stress Testing",
+          "Cardiovascular Disease Management",
+          "Internal Medicine",
+          "EMR/EHR Systems",
+          "Board Certification in Cardiology",
+          "State Medical License",
+          "On-call Availability"
+        ],
+        "matched_certifications": [
+          "State Medical License"
+        ],
+        "detailed_skill_matches": {
+          "Patient Care": [
+            "patient care"
+          ],
+          "HIPAA Compliance": [
+            "HIPAA compliance"
+          ],
+          "Medical Research": [
+            "clinical research"
+          ],
+          "Echocardiography": [
+            "echocardiography"
+          ],
+          "Stress Testing": [
+            "stress testing"
+          ],
+          "Cardiovascular Disease Management": [
+            "cardiovascular disease management"
+          ],
+          "Internal Medicine": [
+            "internal medicine",
+            "general medicine"
+          ],
+          "EMR/EHR Systems": [
+            "electronic medical records"
+          ],
+          "Board Certification in Cardiology": [
+            "certified cardiologist"
+          ],
+          "State Medical License": [
+            "state medical license"
+          ],
+          "On-call Availability": [
+            "on-call responsibilities"
+          ]
+        },
+        "detected_experience_years": 7,
+        "professional_development": {
+          "professional_development_score": 0.0,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.3,
+          "experience": 0.3,
+          "location": 0.1,
+          "certifications": 0.2,
+          "education": 0.1
+        },
+        "job_category": "Healthcare",
+        "job_subcategory": "Cardiologist",
+        "privacy_mode": "ENABLED - All candidate data processed locally",
+        "job_requirements_used": {
+          "position": "Cardiologist - Internal Medicine",
+          "required_skills": [
+            "Patient Care",
+            "HIPAA Compliance",
+            "Medical Research",
+            "Clinical Diagnosis",
+            "Echocardiography",
+            "Stress Testing",
+            "Cardiovascular Disease Management",
+            "Internal Medicine",
+            "EMR/EHR Systems",
+            "Board Certification in Cardiology",
+            "State Medical License",
+            "Strong Communication Skills",
+            "Commitment to Patient-Centered Care",
+            "On-call Availability"
+          ],
+          "required_certifications": [
+            "Medical Degree (MD/DO)",
+            "Board Certification in Cardiology",
+            "State Medical License"
+          ],
+          "required_experience": "5-8 years post-residency",
+          "location": "New York, USA"
+        },
+        "candidate_id": "c937b42ed26d",
+        "has_duplicates": true,
+        "duplicate_count": 1,
+        "duplicates": [
+          "sarah_johnson_resume_updated.txt"
+        ],
+        "exact_skill_bonus": 0.0,
+        "certification_bonus": 0.1,
+        "leadership_bonus": 0.0,
+        "adjusted_score": 0.8023809523809523,
+        "final_rank": 1,
+        "is_duplicate_group": true,
+        "duplicate_group_rank": 1,
+        "selection_reason": "Good skill match; perfect experience fit; has relevant certifications"
+      },
+      {
+        "file_path": "approved_tickets\\test_doctor_position\\sarah_johnson_resume_updated.txt",
+        "filename": "sarah_johnson_resume_updated.txt",
+        "final_score": 0.5499999999999999,
+        "skill_score": 0.5,
+        "experience_score": 1.0,
+        "location_score": 0.0,
+        "professional_development_score": 0.0,
+        "certification_score": 0.0,
+        "education_score": 1.0,
+        "similarity_score": 0.1334613958085327,
+        "matched_skills": [
+          "HIPAA Compliance",
+          "Echocardiography",
+          "Stress Testing",
+          "Cardiovascular Disease Management",
+          "Internal Medicine",
+          "EMR/EHR Systems",
+          "Board Certification in Cardiology"
+        ],
+        "matched_certifications": [],
+        "detailed_skill_matches": {
+          "HIPAA Compliance": [
+            "HIPAA compliance"
+          ],
+          "Echocardiography": [
+            "echocardiography"
+          ],
+          "Stress Testing": [
+            "stress testing"
+          ],
+          "Cardiovascular Disease Management": [
+            "cardiovascular disease management"
+          ],
+          "Internal Medicine": [
+            "internal medicine"
+          ],
+          "EMR/EHR Systems": [
+            "EMR systems"
+          ],
+          "Board Certification in Cardiology": [
+            "certified cardiologist"
+          ]
+        },
+        "detected_experience_years": 5,
+        "professional_development": {
+          "professional_development_score": 0.0,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.3,
+          "experience": 0.3,
+          "location": 0.1,
+          "certifications": 0.2,
+          "education": 0.1
+        },
+        "job_category": "Healthcare",
+        "job_subcategory": "Cardiologist",
+        "privacy_mode": "ENABLED - All candidate data processed locally",
+        "job_requirements_used": {
+          "position": "Cardiologist - Internal Medicine",
+          "required_skills": [
+            "Patient Care",
+            "HIPAA Compliance",
+            "Medical Research",
+            "Clinical Diagnosis",
+            "Echocardiography",
+            "Stress Testing",
+            "Cardiovascular Disease Management",
+            "Internal Medicine",
+            "EMR/EHR Systems",
+            "Board Certification in Cardiology",
+            "State Medical License",
+            "Strong Communication Skills",
+            "Commitment to Patient-Centered Care",
+            "On-call Availability"
+          ],
+          "required_certifications": [
+            "Medical Degree (MD/DO)",
+            "Board Certification in Cardiology",
+            "State Medical License"
+          ],
+          "required_experience": "5-8 years post-residency",
+          "location": "New York, USA"
+        },
+        "candidate_id": "de67ec0f7437",
+        "has_duplicates": false,
+        "duplicate_count": 0,
+        "duplicates": [],
+        "duplicate_of": "dr_sarah_johnson.txt",
+        "exact_skill_bonus": 0.0,
+        "certification_bonus": 0.1,
+        "leadership_bonus": 0.0,
+        "adjusted_score": 0.6499999999999999,
+        "final_rank": 1,
+        "is_duplicate_group": true,
+        "duplicate_group_rank": 1,
+        "selection_reason": "Moderate skill match; perfect experience fit; has relevant certifications"
+      },
+      {
+        "file_path": "approved_tickets\\test_doctor_position\\dr_orthopedic_wrong_specialty.txt",
+        "filename": "dr_orthopedic_wrong_specialty.txt",
+        "final_score": 0.6166666666666666,
+        "skill_score": 0.5,
+        "experience_score": 1.0,
+        "location_score": 0.0,
+        "professional_development_score": 0.0,
+        "certification_score": 0.3333333333333333,
+        "education_score": 1.0,
+        "similarity_score": 0.09208601426956924,
+        "matched_skills": [
+          "HIPAA Compliance",
+          "Echocardiography",
+          "Stress Testing",
+          "Cardiovascular Disease Management",
+          "EMR/EHR Systems",
+          "Board Certification in Cardiology",
+          "State Medical License"
+        ],
+        "matched_certifications": [
+          "State Medical License"
+        ],
+        "detailed_skill_matches": {
+          "HIPAA Compliance": [
+            "HIPAA compliance"
+          ],
+          "Echocardiography": [
+            "echocardiography"
+          ],
+          "Stress Testing": [
+            "stress testing"
+          ],
+          "Cardiovascular Disease Management": [
+            "cardiovascular disease management"
+          ],
+          "EMR/EHR Systems": [
+            "EMR systems"
+          ],
+          "Board Certification in Cardiology": [
+            "board certification in cardiology"
+          ],
+          "State Medical License": [
+            "state medical license"
+          ]
+        },
+        "detected_experience_years": 8,
+        "professional_development": {
+          "professional_development_score": 0.0,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 1
+        },
+        "scoring_weights": {
+          "skills": 0.3,
+          "experience": 0.3,
+          "location": 0.1,
+          "certifications": 0.2,
+          "education": 0.1
+        },
+        "job_category": "Healthcare",
+        "job_subcategory": "Cardiologist",
+        "privacy_mode": "ENABLED - All candidate data processed locally",
+        "job_requirements_used": {
+          "position": "Cardiologist - Internal Medicine",
+          "required_skills": [
+            "Patient Care",
+            "HIPAA Compliance",
+            "Medical Research",
+            "Clinical Diagnosis",
+            "Echocardiography",
+            "Stress Testing",
+            "Cardiovascular Disease Management",
+            "Internal Medicine",
+            "EMR/EHR Systems",
+            "Board Certification in Cardiology",
+            "State Medical License",
+            "Strong Communication Skills",
+            "Commitment to Patient-Centered Care",
+            "On-call Availability"
+          ],
+          "required_certifications": [
+            "Medical Degree (MD/DO)",
+            "Board Certification in Cardiology",
+            "State Medical License"
+          ],
+          "required_experience": "5-8 years post-residency",
+          "location": "New York, USA"
+        },
+        "candidate_id": "835819645ca1",
+        "has_duplicates": false,
+        "duplicate_count": 0,
+        "duplicates": [],
+        "exact_skill_bonus": 0.0,
+        "certification_bonus": 0.1,
+        "leadership_bonus": 0.02,
+        "adjusted_score": 0.7366666666666666,
+        "final_rank": 2,
+        "is_duplicate_group": false,
+        "selection_reason": "Moderate skill match; perfect experience fit; has relevant certifications; leadership experience"
+      },
+      {
+        "file_path": "approved_tickets\\test_doctor_position\\dr_michael_chen.txt",
+        "filename": "dr_michael_chen.txt",
+        "final_score": 0.5714285714285714,
+        "skill_score": 0.5714285714285714,
+        "experience_score": 1.0,
+        "location_score": 0.0,
+        "professional_development_score": 0.0,
+        "certification_score": 0.0,
+        "education_score": 1.0,
+        "similarity_score": 0.1196664004603408,
+        "matched_skills": [
+          "Patient Care",
+          "HIPAA Compliance",
+          "Medical Research",
+          "Echocardiography",
+          "Stress Testing",
+          "Internal Medicine",
+          "Board Certification in Cardiology",
+          "State Medical License"
+        ],
+        "matched_certifications": [],
+        "detailed_skill_matches": {
+          "Patient Care": [
+            "patient care"
+          ],
+          "HIPAA Compliance": [
+            "HIPAA compliance"
+          ],
+          "Medical Research": [
+            "medical research"
+          ],
+          "Echocardiography": [
+            "echocardiography"
+          ],
+          "Stress Testing": [
+            "stress testing"
+          ],
+          "Internal Medicine": [
+            "internal medicine",
+            "general medicine"
+          ],
+          "Board Certification in Cardiology": [
+            "board certification in cardiology"
+          ],
+          "State Medical License": [
+            "state medical license"
+          ]
+        },
+        "detected_experience_years": 6,
+        "professional_development": {
+          "professional_development_score": 0.0,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.3,
+          "experience": 0.3,
+          "location": 0.1,
+          "certifications": 0.2,
+          "education": 0.1
+        },
+        "job_category": "Healthcare",
+        "job_subcategory": "Cardiologist",
+        "privacy_mode": "ENABLED - All candidate data processed locally",
+        "job_requirements_used": {
+          "position": "Cardiologist - Internal Medicine",
+          "required_skills": [
+            "Patient Care",
+            "HIPAA Compliance",
+            "Medical Research",
+            "Clinical Diagnosis",
+            "Echocardiography",
+            "Stress Testing",
+            "Cardiovascular Disease Management",
+            "Internal Medicine",
+            "EMR/EHR Systems",
+            "Board Certification in Cardiology",
+            "State Medical License",
+            "Strong Communication Skills",
+            "Commitment to Patient-Centered Care",
+            "On-call Availability"
+          ],
+          "required_certifications": [
+            "Medical Degree (MD/DO)",
+            "Board Certification in Cardiology",
+            "State Medical License"
+          ],
+          "required_experience": "5-8 years post-residency",
+          "location": "New York, USA"
+        },
+        "candidate_id": "106086016c26",
+        "has_duplicates": false,
+        "duplicate_count": 0,
+        "duplicates": [],
+        "exact_skill_bonus": 0.0,
+        "certification_bonus": 0.1,
+        "leadership_bonus": 0.0,
+        "adjusted_score": 0.6714285714285714,
+        "final_rank": 3,
+        "is_duplicate_group": false,
+        "selection_reason": "Moderate skill match; perfect experience fit; has relevant certifications"
+      },
+      {
+        "file_path": "approved_tickets\\test_doctor_position\\dr_emily_rodriguez_junior.txt",
+        "filename": "dr_emily_rodriguez_junior.txt",
+        "final_score": 0.4471428571428572,
+        "skill_score": 0.35714285714285715,
+        "experience_score": 0.8,
+        "location_score": 0.0,
+        "professional_development_score": 0.0,
+        "certification_score": 0.0,
+        "education_score": 1.0,
+        "similarity_score": 0.10930901224710113,
+        "matched_skills": [
+          "Patient Care",
+          "Echocardiography",
+          "Internal Medicine",
+          "EMR/EHR Systems",
+          "Board Certification in Cardiology"
+        ],
+        "matched_certifications": [],
+        "detailed_skill_matches": {
+          "Patient Care": [
+            "patient care"
+          ],
+          "Echocardiography": [
+            "echocardiography"
+          ],
+          "Internal Medicine": [
+            "internal medicine",
+            "general medicine"
+          ],
+          "EMR/EHR Systems": [
+            "electronic medical records"
+          ],
+          "Board Certification in Cardiology": [
+            "board certification in cardiology"
+          ]
+        },
+        "detected_experience_years": 4,
+        "professional_development": {
+          "professional_development_score": 0.0,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 2,
+          "has_certifications": true,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.3,
+          "experience": 0.3,
+          "location": 0.1,
+          "certifications": 0.2,
+          "education": 0.1
+        },
+        "job_category": "Healthcare",
+        "job_subcategory": "Cardiologist",
+        "privacy_mode": "ENABLED - All candidate data processed locally",
+        "job_requirements_used": {
+          "position": "Cardiologist - Internal Medicine",
+          "required_skills": [
+            "Patient Care",
+            "HIPAA Compliance",
+            "Medical Research",
+            "Clinical Diagnosis",
+            "Echocardiography",
+            "Stress Testing",
+            "Cardiovascular Disease Management",
+            "Internal Medicine",
+            "EMR/EHR Systems",
+            "Board Certification in Cardiology",
+            "State Medical License",
+            "Strong Communication Skills",
+            "Commitment to Patient-Centered Care",
+            "On-call Availability"
+          ],
+          "required_certifications": [
+            "Medical Degree (MD/DO)",
+            "Board Certification in Cardiology",
+            "State Medical License"
+          ],
+          "required_experience": "5-8 years post-residency",
+          "location": "New York, USA"
+        },
+        "candidate_id": "ffecff831f5e",
+        "has_duplicates": false,
+        "duplicate_count": 0,
+        "duplicates": [],
+        "exact_skill_bonus": 0.0,
+        "certification_bonus": 0.1,
+        "leadership_bonus": 0.0,
+        "adjusted_score": 0.5471428571428572,
+        "final_rank": 4,
+        "is_duplicate_group": false,
+        "selection_reason": "Moderate skill match; good experience level; has relevant certifications"
+      }
+    ],
+    "selection_criteria": "Algorithmic scoring based on skills, experience, professional development, and additional features",
+    "scoring_method": "Pure algorithmic approach without LLM"
+  },
+  "all_ranked_candidates": [
+    {
+      "file_path": "approved_tickets\\test_doctor_position\\dr_sarah_johnson.txt",
+      "filename": "dr_sarah_johnson.txt",
+      "final_score": 0.7023809523809523,
+      "skill_score": 0.7857142857142857,
+      "experience_score": 1.0,
+      "location_score": 0.0,
+      "professional_development_score": 0.0,
+      "certification_score": 0.3333333333333333,
+      "education_score": 1.0,
+      "similarity_score": 0.2500170276160306,
+      "matched_skills": [
+        "Patient Care",
+        "HIPAA Compliance",
+        "Medical Research",
+        "Echocardiography",
+        "Stress Testing",
+        "Cardiovascular Disease Management",
+        "Internal Medicine",
+        "EMR/EHR Systems",
+        "Board Certification in Cardiology",
+        "State Medical License",
+        "On-call Availability"
+      ],
+      "matched_certifications": [
+        "State Medical License"
+      ],
+      "detailed_skill_matches": {
+        "Patient Care": [
+          "patient care"
+        ],
+        "HIPAA Compliance": [
+          "HIPAA compliance"
+        ],
+        "Medical Research": [
+          "clinical research"
+        ],
+        "Echocardiography": [
+          "echocardiography"
+        ],
+        "Stress Testing": [
+          "stress testing"
+        ],
+        "Cardiovascular Disease Management": [
+          "cardiovascular disease management"
+        ],
+        "Internal Medicine": [
+          "internal medicine",
+          "general medicine"
+        ],
+        "EMR/EHR Systems": [
+          "electronic medical records"
+        ],
+        "Board Certification in Cardiology": [
+          "certified cardiologist"
+        ],
+        "State Medical License": [
+          "state medical license"
+        ],
+        "On-call Availability": [
+          "on-call responsibilities"
+        ]
+      },
+      "detected_experience_years": 7,
+      "professional_development": {
+        "professional_development_score": 0.0,
+        "professional_development_level": "Minimal - Little evidence of continuous learning",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.0,
+            "certification_count": 0,
+            "recent_certification_score": 0.0,
+            "certifications_found": [],
+            "certification_categories": {},
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 0.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [],
+            "github_activity": null
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 0,
+          "certification_categories": [],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": false,
+          "content_types": [],
+          "continuous_learner": false,
+          "key_highlights": []
+        }
+      },
+      "additional_features": {
+        "education_level": 3,
+        "has_certifications": true,
+        "leadership_experience": 0
+      },
+      "scoring_weights": {
+        "skills": 0.3,
+        "experience": 0.3,
+        "location": 0.1,
+        "certifications": 0.2,
+        "education": 0.1
+      },
+      "job_category": "Healthcare",
+      "job_subcategory": "Cardiologist",
+      "privacy_mode": "ENABLED - All candidate data processed locally",
+      "job_requirements_used": {
+        "position": "Cardiologist - Internal Medicine",
+        "required_skills": [
+          "Patient Care",
+          "HIPAA Compliance",
+          "Medical Research",
+          "Clinical Diagnosis",
+          "Echocardiography",
+          "Stress Testing",
+          "Cardiovascular Disease Management",
+          "Internal Medicine",
+          "EMR/EHR Systems",
+          "Board Certification in Cardiology",
+          "State Medical License",
+          "Strong Communication Skills",
+          "Commitment to Patient-Centered Care",
+          "On-call Availability"
+        ],
+        "required_certifications": [
+          "Medical Degree (MD/DO)",
+          "Board Certification in Cardiology",
+          "State Medical License"
+        ],
+        "required_experience": "5-8 years post-residency",
+        "location": "New York, USA"
+      },
+      "candidate_id": "c937b42ed26d",
+      "has_duplicates": true,
+      "duplicate_count": 1,
+      "duplicates": [
+        "sarah_johnson_resume_updated.txt"
+      ],
+      "exact_skill_bonus": 0.0,
+      "certification_bonus": 0.1,
+      "leadership_bonus": 0.0,
+      "adjusted_score": 0.8023809523809523,
+      "final_rank": 1,
+      "is_duplicate_group": true,
+      "duplicate_group_rank": 1,
+      "selection_reason": "Good skill match; perfect experience fit; has relevant certifications"
+    },
+    {
+      "file_path": "approved_tickets\\test_doctor_position\\sarah_johnson_resume_updated.txt",
+      "filename": "sarah_johnson_resume_updated.txt",
+      "final_score": 0.5499999999999999,
+      "skill_score": 0.5,
+      "experience_score": 1.0,
+      "location_score": 0.0,
+      "professional_development_score": 0.0,
+      "certification_score": 0.0,
+      "education_score": 1.0,
+      "similarity_score": 0.1334613958085327,
+      "matched_skills": [
+        "HIPAA Compliance",
+        "Echocardiography",
+        "Stress Testing",
+        "Cardiovascular Disease Management",
+        "Internal Medicine",
+        "EMR/EHR Systems",
+        "Board Certification in Cardiology"
+      ],
+      "matched_certifications": [],
+      "detailed_skill_matches": {
+        "HIPAA Compliance": [
+          "HIPAA compliance"
+        ],
+        "Echocardiography": [
+          "echocardiography"
+        ],
+        "Stress Testing": [
+          "stress testing"
+        ],
+        "Cardiovascular Disease Management": [
+          "cardiovascular disease management"
+        ],
+        "Internal Medicine": [
+          "internal medicine"
+        ],
+        "EMR/EHR Systems": [
+          "EMR systems"
+        ],
+        "Board Certification in Cardiology": [
+          "certified cardiologist"
+        ]
+      },
+      "detected_experience_years": 5,
+      "professional_development": {
+        "professional_development_score": 0.0,
+        "professional_development_level": "Minimal - Little evidence of continuous learning",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.0,
+            "certification_count": 0,
+            "recent_certification_score": 0.0,
+            "certifications_found": [],
+            "certification_categories": {},
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 0.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [],
+            "github_activity": null
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 0,
+          "certification_categories": [],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": false,
+          "content_types": [],
+          "continuous_learner": false,
+          "key_highlights": []
+        }
+      },
+      "additional_features": {
+        "education_level": 3,
+        "has_certifications": true,
+        "leadership_experience": 0
+      },
+      "scoring_weights": {
+        "skills": 0.3,
+        "experience": 0.3,
+        "location": 0.1,
+        "certifications": 0.2,
+        "education": 0.1
+      },
+      "job_category": "Healthcare",
+      "job_subcategory": "Cardiologist",
+      "privacy_mode": "ENABLED - All candidate data processed locally",
+      "job_requirements_used": {
+        "position": "Cardiologist - Internal Medicine",
+        "required_skills": [
+          "Patient Care",
+          "HIPAA Compliance",
+          "Medical Research",
+          "Clinical Diagnosis",
+          "Echocardiography",
+          "Stress Testing",
+          "Cardiovascular Disease Management",
+          "Internal Medicine",
+          "EMR/EHR Systems",
+          "Board Certification in Cardiology",
+          "State Medical License",
+          "Strong Communication Skills",
+          "Commitment to Patient-Centered Care",
+          "On-call Availability"
+        ],
+        "required_certifications": [
+          "Medical Degree (MD/DO)",
+          "Board Certification in Cardiology",
+          "State Medical License"
+        ],
+        "required_experience": "5-8 years post-residency",
+        "location": "New York, USA"
+      },
+      "candidate_id": "de67ec0f7437",
+      "has_duplicates": false,
+      "duplicate_count": 0,
+      "duplicates": [],
+      "duplicate_of": "dr_sarah_johnson.txt",
+      "exact_skill_bonus": 0.0,
+      "certification_bonus": 0.1,
+      "leadership_bonus": 0.0,
+      "adjusted_score": 0.6499999999999999,
+      "final_rank": 1,
+      "is_duplicate_group": true,
+      "duplicate_group_rank": 1,
+      "selection_reason": "Moderate skill match; perfect experience fit; has relevant certifications"
+    },
+    {
+      "file_path": "approved_tickets\\test_doctor_position\\dr_orthopedic_wrong_specialty.txt",
+      "filename": "dr_orthopedic_wrong_specialty.txt",
+      "final_score": 0.6166666666666666,
+      "skill_score": 0.5,
+      "experience_score": 1.0,
+      "location_score": 0.0,
+      "professional_development_score": 0.0,
+      "certification_score": 0.3333333333333333,
+      "education_score": 1.0,
+      "similarity_score": 0.09208601426956924,
+      "matched_skills": [
+        "HIPAA Compliance",
+        "Echocardiography",
+        "Stress Testing",
+        "Cardiovascular Disease Management",
+        "EMR/EHR Systems",
+        "Board Certification in Cardiology",
+        "State Medical License"
+      ],
+      "matched_certifications": [
+        "State Medical License"
+      ],
+      "detailed_skill_matches": {
+        "HIPAA Compliance": [
+          "HIPAA compliance"
+        ],
+        "Echocardiography": [
+          "echocardiography"
+        ],
+        "Stress Testing": [
+          "stress testing"
+        ],
+        "Cardiovascular Disease Management": [
+          "cardiovascular disease management"
+        ],
+        "EMR/EHR Systems": [
+          "EMR systems"
+        ],
+        "Board Certification in Cardiology": [
+          "board certification in cardiology"
+        ],
+        "State Medical License": [
+          "state medical license"
+        ]
+      },
+      "detected_experience_years": 8,
+      "professional_development": {
+        "professional_development_score": 0.0,
+        "professional_development_level": "Minimal - Little evidence of continuous learning",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.0,
+            "certification_count": 0,
+            "recent_certification_score": 0.0,
+            "certifications_found": [],
+            "certification_categories": {},
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 0.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [],
+            "github_activity": null
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 0,
+          "certification_categories": [],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": false,
+          "content_types": [],
+          "continuous_learner": false,
+          "key_highlights": []
+        }
+      },
+      "additional_features": {
+        "education_level": 3,
+        "has_certifications": true,
+        "leadership_experience": 1
+      },
+      "scoring_weights": {
+        "skills": 0.3,
+        "experience": 0.3,
+        "location": 0.1,
+        "certifications": 0.2,
+        "education": 0.1
+      },
+      "job_category": "Healthcare",
+      "job_subcategory": "Cardiologist",
+      "privacy_mode": "ENABLED - All candidate data processed locally",
+      "job_requirements_used": {
+        "position": "Cardiologist - Internal Medicine",
+        "required_skills": [
+          "Patient Care",
+          "HIPAA Compliance",
+          "Medical Research",
+          "Clinical Diagnosis",
+          "Echocardiography",
+          "Stress Testing",
+          "Cardiovascular Disease Management",
+          "Internal Medicine",
+          "EMR/EHR Systems",
+          "Board Certification in Cardiology",
+          "State Medical License",
+          "Strong Communication Skills",
+          "Commitment to Patient-Centered Care",
+          "On-call Availability"
+        ],
+        "required_certifications": [
+          "Medical Degree (MD/DO)",
+          "Board Certification in Cardiology",
+          "State Medical License"
+        ],
+        "required_experience": "5-8 years post-residency",
+        "location": "New York, USA"
+      },
+      "candidate_id": "835819645ca1",
+      "has_duplicates": false,
+      "duplicate_count": 0,
+      "duplicates": [],
+      "exact_skill_bonus": 0.0,
+      "certification_bonus": 0.1,
+      "leadership_bonus": 0.02,
+      "adjusted_score": 0.7366666666666666,
+      "final_rank": 2,
+      "is_duplicate_group": false,
+      "selection_reason": "Moderate skill match; perfect experience fit; has relevant certifications; leadership experience"
+    },
+    {
+      "file_path": "approved_tickets\\test_doctor_position\\dr_michael_chen.txt",
+      "filename": "dr_michael_chen.txt",
+      "final_score": 0.5714285714285714,
+      "skill_score": 0.5714285714285714,
+      "experience_score": 1.0,
+      "location_score": 0.0,
+      "professional_development_score": 0.0,
+      "certification_score": 0.0,
+      "education_score": 1.0,
+      "similarity_score": 0.1196664004603408,
+      "matched_skills": [
+        "Patient Care",
+        "HIPAA Compliance",
+        "Medical Research",
+        "Echocardiography",
+        "Stress Testing",
+        "Internal Medicine",
+        "Board Certification in Cardiology",
+        "State Medical License"
+      ],
+      "matched_certifications": [],
+      "detailed_skill_matches": {
+        "Patient Care": [
+          "patient care"
+        ],
+        "HIPAA Compliance": [
+          "HIPAA compliance"
+        ],
+        "Medical Research": [
+          "medical research"
+        ],
+        "Echocardiography": [
+          "echocardiography"
+        ],
+        "Stress Testing": [
+          "stress testing"
+        ],
+        "Internal Medicine": [
+          "internal medicine",
+          "general medicine"
+        ],
+        "Board Certification in Cardiology": [
+          "board certification in cardiology"
+        ],
+        "State Medical License": [
+          "state medical license"
+        ]
+      },
+      "detected_experience_years": 6,
+      "professional_development": {
+        "professional_development_score": 0.0,
+        "professional_development_level": "Minimal - Little evidence of continuous learning",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.0,
+            "certification_count": 0,
+            "recent_certification_score": 0.0,
+            "certifications_found": [],
+            "certification_categories": {},
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 0.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [],
+            "github_activity": null
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 0,
+          "certification_categories": [],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": false,
+          "content_types": [],
+          "continuous_learner": false,
+          "key_highlights": []
+        }
+      },
+      "additional_features": {
+        "education_level": 3,
+        "has_certifications": true,
+        "leadership_experience": 0
+      },
+      "scoring_weights": {
+        "skills": 0.3,
+        "experience": 0.3,
+        "location": 0.1,
+        "certifications": 0.2,
+        "education": 0.1
+      },
+      "job_category": "Healthcare",
+      "job_subcategory": "Cardiologist",
+      "privacy_mode": "ENABLED - All candidate data processed locally",
+      "job_requirements_used": {
+        "position": "Cardiologist - Internal Medicine",
+        "required_skills": [
+          "Patient Care",
+          "HIPAA Compliance",
+          "Medical Research",
+          "Clinical Diagnosis",
+          "Echocardiography",
+          "Stress Testing",
+          "Cardiovascular Disease Management",
+          "Internal Medicine",
+          "EMR/EHR Systems",
+          "Board Certification in Cardiology",
+          "State Medical License",
+          "Strong Communication Skills",
+          "Commitment to Patient-Centered Care",
+          "On-call Availability"
+        ],
+        "required_certifications": [
+          "Medical Degree (MD/DO)",
+          "Board Certification in Cardiology",
+          "State Medical License"
+        ],
+        "required_experience": "5-8 years post-residency",
+        "location": "New York, USA"
+      },
+      "candidate_id": "106086016c26",
+      "has_duplicates": false,
+      "duplicate_count": 0,
+      "duplicates": [],
+      "exact_skill_bonus": 0.0,
+      "certification_bonus": 0.1,
+      "leadership_bonus": 0.0,
+      "adjusted_score": 0.6714285714285714,
+      "final_rank": 3,
+      "is_duplicate_group": false,
+      "selection_reason": "Moderate skill match; perfect experience fit; has relevant certifications"
+    },
+    {
+      "file_path": "approved_tickets\\test_doctor_position\\dr_emily_rodriguez_junior.txt",
+      "filename": "dr_emily_rodriguez_junior.txt",
+      "final_score": 0.4471428571428572,
+      "skill_score": 0.35714285714285715,
+      "experience_score": 0.8,
+      "location_score": 0.0,
+      "professional_development_score": 0.0,
+      "certification_score": 0.0,
+      "education_score": 1.0,
+      "similarity_score": 0.10930901224710113,
+      "matched_skills": [
+        "Patient Care",
+        "Echocardiography",
+        "Internal Medicine",
+        "EMR/EHR Systems",
+        "Board Certification in Cardiology"
+      ],
+      "matched_certifications": [],
+      "detailed_skill_matches": {
+        "Patient Care": [
+          "patient care"
+        ],
+        "Echocardiography": [
+          "echocardiography"
+        ],
+        "Internal Medicine": [
+          "internal medicine",
+          "general medicine"
+        ],
+        "EMR/EHR Systems": [
+          "electronic medical records"
+        ],
+        "Board Certification in Cardiology": [
+          "board certification in cardiology"
+        ]
+      },
+      "detected_experience_years": 4,
+      "professional_development": {
+        "professional_development_score": 0.0,
+        "professional_development_level": "Minimal - Little evidence of continuous learning",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.0,
+            "certification_count": 0,
+            "recent_certification_score": 0.0,
+            "certifications_found": [],
+            "certification_categories": {},
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 0.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [],
+            "github_activity": null
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 0,
+          "certification_categories": [],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": false,
+          "content_types": [],
+          "continuous_learner": false,
+          "key_highlights": []
+        }
+      },
+      "additional_features": {
+        "education_level": 2,
+        "has_certifications": true,
+        "leadership_experience": 0
+      },
+      "scoring_weights": {
+        "skills": 0.3,
+        "experience": 0.3,
+        "location": 0.1,
+        "certifications": 0.2,
+        "education": 0.1
+      },
+      "job_category": "Healthcare",
+      "job_subcategory": "Cardiologist",
+      "privacy_mode": "ENABLED - All candidate data processed locally",
+      "job_requirements_used": {
+        "position": "Cardiologist - Internal Medicine",
+        "required_skills": [
+          "Patient Care",
+          "HIPAA Compliance",
+          "Medical Research",
+          "Clinical Diagnosis",
+          "Echocardiography",
+          "Stress Testing",
+          "Cardiovascular Disease Management",
+          "Internal Medicine",
+          "EMR/EHR Systems",
+          "Board Certification in Cardiology",
+          "State Medical License",
+          "Strong Communication Skills",
+          "Commitment to Patient-Centered Care",
+          "On-call Availability"
+        ],
+        "required_certifications": [
+          "Medical Degree (MD/DO)",
+          "Board Certification in Cardiology",
+          "State Medical License"
+        ],
+        "required_experience": "5-8 years post-residency",
+        "location": "New York, USA"
+      },
+      "candidate_id": "ffecff831f5e",
+      "has_duplicates": false,
+      "duplicate_count": 0,
+      "duplicates": [],
+      "exact_skill_bonus": 0.0,
+      "certification_bonus": 0.1,
+      "leadership_bonus": 0.0,
+      "adjusted_score": 0.5471428571428572,
+      "final_rank": 4,
+      "is_duplicate_group": false,
+      "selection_reason": "Moderate skill match; good experience level; has relevant certifications"
+    }
+  ]
+}

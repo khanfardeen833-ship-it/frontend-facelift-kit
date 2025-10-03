@@ -1,0 +1,55 @@
+RESUME FILTERING SUMMARY REPORT (NO LLM)
+======================================================================
+
+Job Ticket ID: 2eb7215c16_gcp-engineer
+Position: gcp engineer
+Report Generated: 2025-09-23T08:36:23.614016
+
+======================================================================
+JOB REQUIREMENTS:
+======================================================================
+Experience: 5 years
+Skills: or Java  Experience with CI/CD tools (Jenkins, Cloud Functions, Kubernetes, Python, etc.)  Proficiency in SQL, Dataflow, GKE, Strong hands-on experience with GCP services (BigQuery, Pub/Sub, or Cloud Build)  Knowledge of Docker, GitLab
+Location: Hawali
+Salary: 15 to 20 EUROS
+Deadline: 15-10-2025
+
+======================================================================
+FILTERING SUMMARY:
+======================================================================
+Total Resumes Submitted: 3
+Unique Candidates: 3
+Duplicate Groups Found: 0
+Final Selected: 3
+
+======================================================================
+TOP CANDIDATES (RANKED):
+======================================================================
+
+1. Fardeen_Khan_20250923_083045.pdf
+   Overall Score: 53.0%
+   Skill Match: 63.6% (7/11 skills)
+   Matched Skills: or Java  Experience with CI/CD tools (Jenkins, Cloud Functions, Python, etc.)  Proficiency in SQL, Strong hands-on experience with GCP services (BigQuery, or Cloud Build)  Knowledge of Docker, GitLab
+   Experience: 2 years (Score: 40.0%)
+   Location Match: No
+   Professional Development Score: 17.8%
+   Selection Reason: Good skill match; has relevant certifications; leadership experience
+
+2. RAJESH_KUMAR_SHARMA_20250923_083505.pdf
+   Overall Score: 22.5%
+   Skill Match: 36.4% (4/11 skills)
+   Matched Skills: Kubernetes, Python, etc.)  Proficiency in SQL, GitLab
+   Experience: 0 years (Score: 0.0%)
+   Location Match: No
+   Professional Development Score: 20.0%
+   Selection Reason: Moderate skill match; leadership experience
+
+3. Shubham_20250923_083121.pdf
+   Overall Score: 10.9%
+   Skill Match: 27.3% (3/11 skills)
+   Matched Skills: or Java  Experience with CI/CD tools (Jenkins, or Cloud Build)  Knowledge of Docker, GitLab
+   Experience: 0 years (Score: 0.0%)
+   Location Match: No
+   Professional Development Score: 0.0%
+   Selection Reason: Moderate skill match
+

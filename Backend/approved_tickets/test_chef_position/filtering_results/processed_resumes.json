@@ -1,0 +1,12 @@
+{
+  "f24b361ab099f03e5d5c0fabfd1bed41": {
+    "filename": "chef_candidate_1.txt",
+    "processed_at": "2025-09-30T07:09:55.514973",
+    "file_path": "approved_tickets\\test_chef_position\\chef_candidate_1.txt"
+  },
+  "06f47b2c3421a3a8d0618b10a157595b": {
+    "filename": "chef_candidate_2.txt",
+    "processed_at": "2025-09-30T07:09:55.514973",
+    "file_path": "approved_tickets\\test_chef_position\\chef_candidate_2.txt"
+  }
+}

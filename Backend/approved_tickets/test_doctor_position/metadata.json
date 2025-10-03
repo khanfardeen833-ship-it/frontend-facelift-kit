@@ -1,0 +1,14 @@
+{
+  "ticket_id": "test_doctor_001",
+  "created_at": "2025-09-30T07:15:00",
+  "status": "active",
+  "job_type": "Medical - Cardiology",
+  "total_applications": 5,
+  "test_scenarios": [
+    "Perfect match candidate",
+    "Good but not perfect match",
+    "Underqualified junior resident",
+    "Duplicate submission detection",
+    "Wrong medical specialty"
+  ]
+}

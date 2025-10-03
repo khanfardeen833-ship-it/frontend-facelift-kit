@@ -1,0 +1,46 @@
+RESUME FILTERING SUMMARY REPORT (NO LLM)
+======================================================================
+
+Job Ticket ID: test_chef_position
+Position: Executive Head Chef
+Report Generated: 2025-09-30T07:09:55.508612
+
+======================================================================
+JOB REQUIREMENTS:
+======================================================================
+Experience: 8-10 years
+Skills: food safety certification, fine dining experience, plating presentation, kitchen management, French cuisine, cost control, team leadership, culinary innovation, menu planning, Italian cuisine
+Location: Paris, France
+Salary: €45,000 - €65,000 per year
+Deadline: 31/12/2025
+
+======================================================================
+FILTERING SUMMARY:
+======================================================================
+Total Resumes Submitted: 2
+Unique Candidates: 2
+Duplicate Groups Found: 0
+Final Selected: 2
+
+======================================================================
+TOP CANDIDATES (RANKED):
+======================================================================
+
+1. chef_candidate_1.txt
+   Overall Score: 100.0%
+   Skill Match: 70.6% (12/10 skills)
+   Matched Skills: food safety certification, fine dining experience, plating presentation, kitchen management, French cuisine, cost control, menu planning, Italian cuisine, staff training, food quality control, innovative cooking techniques, time management
+   Experience: 10 years (Score: 100.0%)
+   Location Match: Yes
+   Professional Development Score: 0.0%
+   Selection Reason: Good skill match; perfect experience fit; has relevant certifications; leadership experience
+
+2. chef_candidate_2.txt
+   Overall Score: 40.3%
+   Skill Match: 17.6% (3/10 skills)
+   Matched Skills: fine dining experience, French cuisine, menu planning
+   Experience: 3 years (Score: 37.5%)
+   Location Match: No
+   Professional Development Score: 0.0%
+   Selection Reason: Moderate skill match; has relevant certifications; leadership experience
+

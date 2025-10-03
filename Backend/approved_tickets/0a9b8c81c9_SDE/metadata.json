@@ -1,0 +1,23 @@
+{
+  "ticket_id": "0a9b8c81c9",
+  "created_at": "2025-10-01T06:49:35.161564",
+  "folder_name": "0a9b8c81c9_SDE",
+  "resumes": [
+    {
+      "filename": "Sahil_Khan_20251001_064935.pdf",
+      "original_filename": "fullstack_cv_1.pdf",
+      "uploaded_at": "2025-10-01T06:49:35.189776",
+      "applicant_name": "Sahil Khan",
+      "applicant_email": "sahil@gmail.com",
+      "file_size": 1652
+    },
+    {
+      "filename": "Deep_20251001_065044.pdf",
+      "original_filename": "fullstack_cv_2.pdf",
+      "uploaded_at": "2025-10-01T06:50:44.375150",
+      "applicant_name": "Deep",
+      "applicant_email": "deep@gmail.com",
+      "file_size": 1657
+    }
+  ]
+}

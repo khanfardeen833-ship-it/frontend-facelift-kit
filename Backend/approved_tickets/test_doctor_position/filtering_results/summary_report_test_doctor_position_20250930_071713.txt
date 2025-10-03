@@ -1,0 +1,88 @@
+RESUME FILTERING SUMMARY REPORT (NO LLM)
+======================================================================
+
+Job Ticket ID: test_doctor_position
+Position: Cardiologist - Internal Medicine
+Report Generated: 2025-09-30T07:17:13.733761
+
+======================================================================
+JOB REQUIREMENTS:
+======================================================================
+Experience: 5-8 years post-residency
+Skills: Patient Care, HIPAA Compliance, Medical Research, Clinical Diagnosis, Echocardiography, Stress Testing, Cardiovascular Disease Management, Internal Medicine, EMR/EHR Systems, Board Certification in Cardiology
+Location: New York, USA
+Salary: $250,000 - $400,000 per year
+Deadline: 31/01/2026
+
+======================================================================
+FILTERING SUMMARY:
+======================================================================
+Total Resumes Submitted: 5
+Unique Candidates: 5
+Duplicate Groups Found: 1
+Final Selected: 5
+
+⚠️  DUPLICATE RESUME DETECTED: 1 duplicate group(s) found!
+   Duplicate candidates have been assigned the same rank.
+   Please review duplicate submissions carefully.
+
+======================================================================
+DUPLICATE CANDIDATES DETECTED:
+======================================================================
+
+Group 1 (2 submissions):
+  - dr_sarah_johnson.txt
+  - sarah_johnson_resume_updated.txt
+
+======================================================================
+TOP CANDIDATES (RANKED):
+======================================================================
+
+1 (DUPLICATE GROUP). dr_sarah_johnson.txt
+   Overall Score: 80.2%
+   Skill Match: 78.6% (11/10 skills)
+   Matched Skills: Patient Care, HIPAA Compliance, Medical Research, Echocardiography, Stress Testing, Cardiovascular Disease Management, Internal Medicine, EMR/EHR Systems, Board Certification in Cardiology, State Medical License, On-call Availability
+   Experience: 7 years (Score: 100.0%)
+   Location Match: No
+   Professional Development Score: 0.0%
+   Selection Reason: Good skill match; perfect experience fit; has relevant certifications
+   ⚠️  DUPLICATE RESUME: Best of 2 submissions
+   Duplicate files: sarah_johnson_resume_updated.txt
+
+1 (DUPLICATE GROUP). sarah_johnson_resume_updated.txt
+   Overall Score: 65.0%
+   Skill Match: 50.0% (7/10 skills)
+   Matched Skills: HIPAA Compliance, Echocardiography, Stress Testing, Cardiovascular Disease Management, Internal Medicine, EMR/EHR Systems, Board Certification in Cardiology
+   Experience: 5 years (Score: 100.0%)
+   Location Match: No
+   Professional Development Score: 0.0%
+   Selection Reason: Moderate skill match; perfect experience fit; has relevant certifications
+   ⚠️  DUPLICATE OF: dr_sarah_johnson.txt
+
+2. dr_orthopedic_wrong_specialty.txt
+   Overall Score: 73.7%
+   Skill Match: 50.0% (7/10 skills)
+   Matched Skills: HIPAA Compliance, Echocardiography, Stress Testing, Cardiovascular Disease Management, EMR/EHR Systems, Board Certification in Cardiology, State Medical License
+   Experience: 8 years (Score: 100.0%)
+   Location Match: No
+   Professional Development Score: 0.0%
+   Selection Reason: Moderate skill match; perfect experience fit; has relevant certifications; leadership experience
+
+3. dr_michael_chen.txt
+   Overall Score: 67.1%
+   Skill Match: 57.1% (8/10 skills)
+   Matched Skills: Patient Care, HIPAA Compliance, Medical Research, Echocardiography, Stress Testing, Internal Medicine, Board Certification in Cardiology, State Medical License
+   Experience: 6 years (Score: 100.0%)
+   Location Match: No
+   Professional Development Score: 0.0%
+   Selection Reason: Moderate skill match; perfect experience fit; has relevant certifications
+
+4. dr_emily_rodriguez_junior.txt
+   Overall Score: 54.7%
+   Skill Match: 35.7% (5/10 skills)
+   Matched Skills: Patient Care, Echocardiography, Internal Medicine, EMR/EHR Systems, Board Certification in Cardiology
+   Experience: 4 years (Score: 80.0%)
+   Location Match: No
+   Professional Development Score: 0.0%
+   Selection Reason: Moderate skill match; good experience level; has relevant certifications
+

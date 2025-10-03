@@ -1,0 +1,46 @@
+RESUME FILTERING SUMMARY REPORT (NO LLM)
+======================================================================
+
+Job Ticket ID: 0a9b8c81c9_SDE
+Position: SDE
+Report Generated: 2025-10-01T06:57:36.910303
+
+======================================================================
+JOB REQUIREMENTS:
+======================================================================
+Experience: 2-7 years
+Skills: Javascript, React
+Location: New York
+Salary: 15 to 30 K
+Deadline: 23/12/2025
+
+======================================================================
+FILTERING SUMMARY:
+======================================================================
+Total Resumes Submitted: 2
+Unique Candidates: 2
+Duplicate Groups Found: 0
+Final Selected: 2
+
+======================================================================
+TOP CANDIDATES (RANKED):
+======================================================================
+
+1. Sahil_Khan_20251001_064935.pdf
+   Overall Score: 40.0%
+   Skill Match: 100.0% (2/2 skills)
+   Matched Skills: Javascript, React
+   Experience: 0 years (Score: 0.0%)
+   Location Match: No
+   Professional Development Score: 0.0%
+   Selection Reason: Excellent skill match
+
+2. Deep_20251001_065044.pdf
+   Overall Score: 28.0%
+   Skill Match: 50.0% (1/2 skills)
+   Matched Skills: React
+   Experience: 0 years (Score: 0.0%)
+   Location Match: No
+   Professional Development Score: 20.0%
+   Selection Reason: Moderate skill match; leadership experience
+

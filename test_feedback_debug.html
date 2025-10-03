@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Debug Feedback Form</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 min-h-screen p-8">
+    <div class="max-w-4xl mx-auto">
+        <h1 class="text-3xl font-bold text-gray-900 mb-8">Debug Manager Feedback Form</h1>
+        
+        <div class="bg-white rounded-lg shadow-md p-6 mb-6">
+            <h2 class="text-xl font-semibold text-gray-800 mb-4">Test Different Scenarios</h2>
+            
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <!-- Test with full URL parameters -->
+                <div class="border border-gray-200 rounded-lg p-4">
+                    <h3 class="font-semibold text-gray-800 mb-3">✅ With Full URL Parameters</h3>
+                    <p class="text-sm text-gray-600 mb-3">
+                        This should show the candidate details directly from URL parameters.
+                    </p>
+                    <button 
+                        onclick="testWithFullParams()"
+                        class="w-full bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg transition-colors"
+                    >
+                        Test with Full Parameters
+                    </button>
+                </div>
+
+                <!-- Test with only IDs -->
+                <div class="border border-gray-200 rounded-lg p-4">
+                    <h3 class="font-semibold text-gray-800 mb-3">🔧 With Only IDs (API Fallback)</h3>
+                    <p class="text-sm text-gray-600 mb-3">
+                        This should trigger the API fallback to fetch candidate data.
+                    </p>
+                    <button 
+                        onclick="testWithOnlyIds()"
+                        class="w-full bg-green-600 hover:bg-green-700 text-white px-4 py-2 rounded-lg transition-colors"
+                    >
+                        Test with Only IDs
+                    </button>
+                </div>
+
+                <!-- Test with no parameters -->
+                <div class="border border-gray-200 rounded-lg p-4">
+                    <h3 class="font-semibold text-gray-800 mb-3">❌ With No Parameters</h3>
+                    <p class="text-sm text-gray-600 mb-3">
+                        This should show fallback values.
+                    </p>
+                    <button 
+                        onclick="testWithNoParams()"
+                        class="w-full bg-red-600 hover:bg-red-700 text-white px-4 py-2 rounded-lg transition-colors"
+                    >
+                        Test with No Parameters
+                    </button>
+                </div>
+
+                <!-- Test with your specific data -->
+                <div class="border border-gray-200 rounded-lg p-4">
+                    <h3 class="font-semibold text-gray-800 mb-3">🎯 Your Specific Case</h3>
+                    <p class="text-sm text-gray-600 mb-3">
+                        Test with the exact data from your URL.
+                    </p>
+                    <button 
+                        onclick="testWithYourData()"
+                        class="w-full bg-purple-600 hover:bg-purple-700 text-white px-4 py-2 rounded-lg transition-colors"
+                    >
+                        Test Your Data
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <div class="bg-white rounded-lg shadow-md p-6">
+            <h2 class="text-xl font-semibold text-gray-800 mb-4">Debug Information</h2>
+            <div class="bg-gray-50 rounded-lg p-4">
+                <h3 class="font-semibold text-gray-800 mb-2">Instructions:</h3>
+                <ol class="text-gray-700 list-decimal list-inside space-y-1">
+                    <li>Click any test button above to open the feedback form</li>
+                    <li>Open browser developer tools (F12)</li>
+                    <li>Check the Console tab for debug messages</li>
+                    <li>Look for messages starting with "URL Parameters:", "Attempting to fetch...", etc.</li>
+                    <li>Report any errors or unexpected behavior</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function testWithFullParams() {
+            const params = new URLSearchParams({
+                interview_id: '123',
+                candidate_id: '456',
+                candidate_name: 'John Doe',
+                candidate_email: 'john.doe@example.com',
+                job_title: 'Senior Software Engineer',
+                round_name: 'Technical Interview'
+            });
+            
+            window.open(`http://localhost:3002/?${params.toString()}`, '_blank');
+        }
+
+        function testWithOnlyIds() {
+            const params = new URLSearchParams({
+                interview_id: '78',
+                candidate_id: '50'
+            });
+            
+            window.open(`http://localhost:3002/?${params.toString()}`, '_blank');
+        }
+
+        function testWithNoParams() {
+            window.open('http://localhost:3002/', '_blank');
+        }
+
+        function testWithYourData() {
+            const params = new URLSearchParams({
+                interview_id: '78',
+                candidate_id: '50',
+                candidate_name: 'Fardeen Khan',
+                candidate_email: 'khanfardeen833@gmail.com',
+                job_title: 'gcp engineer',
+                round_name: 'HR Final Round'
+            });
+            
+            window.open(`http://localhost:3002/?${params.toString()}`, '_blank');
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,27 @@
+{
+  "20f3b993a74fee6c95cf54956732608b": {
+    "filename": "dr_emily_rodriguez_junior.txt",
+    "processed_at": "2025-09-30T07:17:13.747631",
+    "file_path": "approved_tickets\\test_doctor_position\\dr_emily_rodriguez_junior.txt"
+  },
+  "f43b4429cd3fce54278b1652fc7e758d": {
+    "filename": "dr_michael_chen.txt",
+    "processed_at": "2025-09-30T07:17:13.747631",
+    "file_path": "approved_tickets\\test_doctor_position\\dr_michael_chen.txt"
+  },
+  "c405b95adae26cf7f31625e550b5855b": {
+    "filename": "dr_orthopedic_wrong_specialty.txt",
+    "processed_at": "2025-09-30T07:17:13.747631",
+    "file_path": "approved_tickets\\test_doctor_position\\dr_orthopedic_wrong_specialty.txt"
+  },
+  "1ea8689ea57c38cb3f58605d8780c8be": {
+    "filename": "dr_sarah_johnson.txt",
+    "processed_at": "2025-09-30T07:17:13.747940",
+    "file_path": "approved_tickets\\test_doctor_position\\dr_sarah_johnson.txt"
+  },
+  "a3c595ef2878b798b79255d3ecd80e12": {
+    "filename": "sarah_johnson_resume_updated.txt",
+    "processed_at": "2025-09-30T07:17:13.747940",
+    "file_path": "approved_tickets\\test_doctor_position\\sarah_johnson_resume_updated.txt"
+  }
+}

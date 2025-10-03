@@ -1,0 +1,19 @@
+{
+  "ticket_info": {
+    "ticket_id": "test_chef_001",
+    "status": "active",
+    "created_at": "2025-09-30T07:06:00",
+    "approval_status": "approved"
+  },
+  "job_details": {
+    "job_title": "Executive Head Chef",
+    "company_name": "Gourmet Restaurant & Hotel",
+    "job_description": "We are seeking an experienced Executive Head Chef to lead our kitchen team at our upscale restaurant. The ideal candidate will have extensive experience in fine dining, strong leadership skills, and expertise in French and Italian cuisine. You will be responsible for menu creation, kitchen management, staff training, food quality control, and maintaining the highest culinary standards. Must be passionate about innovative cooking techniques and have excellent knowledge of food safety regulations.",
+    "required_skills": "French cuisine, Italian cuisine, menu planning, kitchen management, food safety certification, team leadership, cost control, fine dining experience, culinary innovation, plating presentation",
+    "experience_required": "8-10 years",
+    "location": "Paris, France",
+    "salary_range": "€45,000 - €65,000 per year",
+    "employment_type": "Full-time",
+    "deadline": "31/12/2025"
+  }
+}

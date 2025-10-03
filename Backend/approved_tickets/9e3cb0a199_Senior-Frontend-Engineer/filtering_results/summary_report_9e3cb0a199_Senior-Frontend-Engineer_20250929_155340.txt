@@ -1,0 +1,55 @@
+RESUME FILTERING SUMMARY REPORT (NO LLM)
+======================================================================
+
+Job Ticket ID: 9e3cb0a199_Senior-Frontend-Engineer
+Position: Senior Frontend Engineer
+Report Generated: 2025-09-29T15:53:40.002880
+
+======================================================================
+JOB REQUIREMENTS:
+======================================================================
+Experience: senior
+Skills: aws
+Location: ui
+Salary: 45k-60k euros
+Deadline: 1 july 2025
+
+======================================================================
+FILTERING SUMMARY:
+======================================================================
+Total Resumes Submitted: 3
+Unique Candidates: 0
+Duplicate Groups Found: 0
+Final Selected: 3
+
+======================================================================
+TOP CANDIDATES (RANKED):
+======================================================================
+
+1. Fardeen_Khan_20250922_072556.pdf
+   Overall Score: 95.5%
+   Skill Match: 100.0% (1/1 skills)
+   Matched Skills: aws
+   Experience: 2 years (Score: 100.0%)
+   Location Match: Yes
+   Professional Development Score: 17.8%
+   Selection Reason: Excellent skill match; perfect experience fit; has relevant certifications; leadership experience
+
+2. Aman_20250919_162839.pdf
+   Overall Score: 10.0%
+   Skill Match: 0.0% (0/1 skills)
+   Matched Skills: 
+   Experience: 0 years (Score: 0.0%)
+   Location Match: Yes
+   Professional Development Score: 0.0%
+   Selection Reason: Moderate skill match
+
+3. Shubham_20250922_073012.pdf
+   Overall Score: 10.0%
+   Skill Match: 0.0% (0/1 skills)
+   Matched Skills: 
+   Experience: 0 years (Score: 0.0%)
+   Location Match: Yes
+   Professional Development Score: 0.0%
+   Selection Reason: Moderate skill match
+

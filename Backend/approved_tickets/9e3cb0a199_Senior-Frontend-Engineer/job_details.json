@@ -1,0 +1,33 @@
+{
+  "ticket_info": {
+    "ticket_id": "9e3cb0a199",
+    "source": "chat",
+    "sender": "user_6851b9c3bc27865e",
+    "user_id": "user_6851b9c3bc27865e",
+    "subject": "Senior Frontend Engineer",
+    "session_id": "cfdae1d5-1db9-4170-8ce2-65f0ce3b1654",
+    "created_at": "2025-09-19T16:13:17",
+    "last_updated": "2025-09-19T16:14:01",
+    "status": "new",
+    "approval_status": "approved",
+    "approved": 1,
+    "approved_at": "2025-09-19T16:14:01",
+    "approval_token": null,
+    "terminated_at": null,
+    "terminated_by": null,
+    "termination_reason": null,
+    "rejected_at": null,
+    "rejection_reason": null
+  },
+  "job_details": {
+    "deadline": "1 july 2025",
+    "employment_type": "full time",
+    "experience_required": "senior",
+    "job_description": "We are seeking a Senior Frontend Engineer to lead the development of user-friendly, high-performance web applications. You will work with modern frameworks (React, Angular, or Vue), ensure seamless integration with backend services, and drive best practices in UI/UX, performance, and accessibility. This role involves close collaboration with design and product teams, mentoring junior engineers, and contributing to the overall frontend architecture and strategy.",
+    "job_title": "Senior Frontend Engineer",
+    "location": "ui",
+    "required_skills": "aws",
+    "salary_range": "45k-60k euros"
+  },
+  "saved_at": "2025-09-29T19:10:39.567454"
+}

@@ -1,0 +1,317 @@
+{
+  "all_ranked_candidates": [
+    {
+      "file_path": "approved_tickets\\9e3cb0a199_Senior-Frontend-Engineer\\Fardeen_Khan_20250922_072556.pdf",
+      "filename": "Fardeen_Khan_20250922_072556.pdf",
+      "final_score": 0.8354999999999999,
+      "skill_score": 1.0,
+      "experience_score": 1.0,
+      "location_score": 1.0,
+      "professional_development_score": 0.1775,
+      "similarity_score": 0.010591581452286357,
+      "matched_skills": [
+        "aws"
+      ],
+      "detailed_skill_matches": {
+        "aws": [
+          "aws"
+        ]
+      },
+      "detected_experience_years": 2,
+      "professional_development": {
+        "professional_development_score": 0.1775,
+        "professional_development_level": "Minimal - Little evidence of continuous learning",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.5071428571428571,
+            "certification_count": 3,
+            "recent_certification_score": 0.0,
+            "certifications_found": [
+              "cks",
+              "ceh",
+              "cka"
+            ],
+            "certification_categories": {
+              "devops": [
+                "cka",
+                "cks"
+              ],
+              "security": [
+                "ceh"
+              ]
+            },
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 0.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [],
+            "github_activity": null
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 3,
+          "certification_categories": [
+            "devops",
+            "security"
+          ],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": false,
+          "content_types": [],
+          "continuous_learner": false,
+          "key_highlights": [
+            "Has 3 professional certifications"
+          ]
+        }
+      },
+      "additional_features": {
+        "education_level": 2,
+        "has_certifications": true,
+        "leadership_experience": 1
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "Senior Frontend Engineer",
+        "required_skills": [
+          "aws"
+        ],
+        "required_experience": "senior",
+        "location": "ui"
+      },
+      "candidate_id": "0566f4ae14f9",
+      "has_duplicates": false,
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "file_path": "approved_tickets\\9e3cb0a199_Senior-Frontend-Engineer\\Aman_20250919_162839.pdf",
+      "filename": "Aman_20250919_162839.pdf",
+      "final_score": 0.1,
+      "skill_score": 0.0,
+      "experience_score": 0.0,
+      "location_score": 1.0,
+      "professional_development_score": 0.0,
+      "similarity_score": 0.04308686120231738,
+      "matched_skills": [],
+      "detailed_skill_matches": {},
+      "detected_experience_years": 0,
+      "professional_development": {
+        "professional_development_score": 0.0,
+        "professional_development_level": "Minimal - Little evidence of continuous learning",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.0,
+            "certification_count": 0,
+            "recent_certification_score": 0.0,
+            "certifications_found": [],
+            "certification_categories": {},
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 0.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [],
+            "github_activity": null
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 0,
+          "certification_categories": [],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": false,
+          "content_types": [],
+          "continuous_learner": false,
+          "key_highlights": []
+        }
+      },
+      "additional_features": {
+        "education_level": 3,
+        "has_certifications": false,
+        "leadership_experience": 0
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "Senior Frontend Engineer",
+        "required_skills": [
+          "aws"
+        ],
+        "required_experience": "senior",
+        "location": "ui"
+      },
+      "candidate_id": "cb544f2a63f4",
+      "has_duplicates": false,
+      "duplicate_count": 0,
+      "duplicates": [],
+      "exact_skill_bonus": 0.0,
+      "certification_bonus": 0,
+      "leadership_bonus": 0.0,
+      "adjusted_score": 0.1,
+      "final_rank": 1,
+      "is_duplicate_group": false,
+      "selection_reason": "Moderate skill match"
+    },
+    {
+      "file_path": "approved_tickets\\9e3cb0a199_Senior-Frontend-Engineer\\Shubham_20250922_073012.pdf",
+      "filename": "Shubham_20250922_073012.pdf",
+      "final_score": 0.1,
+      "skill_score": 0.0,
+      "experience_score": 0.0,
+      "location_score": 1.0,
+      "professional_development_score": 0.0,
+      "similarity_score": 0.04308686120231738,
+      "matched_skills": [],
+      "detailed_skill_matches": {},
+      "detected_experience_years": 0,
+      "professional_development": {
+        "professional_development_score": 0.0,
+        "professional_development_level": "Minimal - Little evidence of continuous learning",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.0,
+            "certification_count": 0,
+            "recent_certification_score": 0.0,
+            "certifications_found": [],
+            "certification_categories": {},
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 0.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [],
+            "github_activity": null
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 0,
+          "certification_categories": [],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": false,
+          "content_types": [],
+          "continuous_learner": false,
+          "key_highlights": []
+        }
+      },
+      "additional_features": {
+        "education_level": 3,
+        "has_certifications": false,
+        "leadership_experience": 0
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "Senior Frontend Engineer",
+        "required_skills": [
+          "aws"
+        ],
+        "required_experience": "senior",
+        "location": "ui"
+      },
+      "candidate_id": "49e6f6575df5",
+      "has_duplicates": false,
+      "duplicate_count": 0,
+      "duplicates": []
+    }
+  ],
+  "selection_criteria": "Algorithmic scoring based on skills, experience, professional development, and additional features",
+  "scoring_method": "Pure algorithmic approach without LLM",
+  "total_processed": 3,
+  "new_processed": 2
+}

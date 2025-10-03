@@ -1,0 +1,35 @@
+{
+  "ticket_info": {
+    "ticket_id": "e867596977",
+    "source": "chat",
+    "sender": "user_6851b9c3bc27865e",
+    "user_id": "user_6851b9c3bc27865e",
+    "subject": "Prepress engineer 1",
+    "session_id": "34e8be4f-508b-44bb-a1d1-9b55da2d4bb6",
+    "created_at": "2025-09-22T12:38:26",
+    "last_updated": "2025-09-22T13:15:15",
+    "status": "new",
+    "approval_status": "approved",
+    "approved": 1,
+    "approved_at": "2025-09-22T12:39:10",
+    "approval_token": null,
+    "terminated_at": null,
+    "terminated_by": null,
+    "termination_reason": null,
+    "rejected_at": null,
+    "rejection_reason": null
+  },
+  "job_details": {
+    "company_name": "Your Company",
+    "contact_phone": "",
+    "deadline": "2025-09-30",
+    "employment_type": "Part-time",
+    "experience_required": "5-15 years",
+    "job_description": "Adobe Creative Suite, print production processes, file preparation (preflighting, imposition, proofing)",
+    "job_title": "Prepress engineer 1",
+    "location": "Hassi",
+    "required_skills": "Javascript,App",
+    "salary_range": "80 000- 90 000 Dinar"
+  },
+  "saved_at": "2025-09-29T19:10:39.598914"
+}

@@ -1,0 +1,35 @@
+{
+  "ticket_info": {
+    "ticket_id": "74b689da3b",
+    "source": "chat",
+    "sender": "user_6851b9c3bc27865e",
+    "user_id": "user_6851b9c3bc27865e",
+    "subject": "Senior ML engineer one",
+    "session_id": "9be69a09-b277-4a33-8585-10cdeb10bc0f",
+    "created_at": "2025-09-20T02:30:21",
+    "last_updated": "2025-09-22T13:14:32",
+    "status": "new",
+    "approval_status": "approved",
+    "approved": 1,
+    "approved_at": "2025-09-20T02:30:52",
+    "approval_token": null,
+    "terminated_at": null,
+    "terminated_by": null,
+    "termination_reason": null,
+    "rejected_at": null,
+    "rejection_reason": null
+  },
+  "job_details": {
+    "company_name": "Your Company",
+    "contact_phone": "",
+    "deadline": "2025-09-30",
+    "employment_type": "Internship",
+    "experience_required": "10 to 15",
+    "job_description": "Azure, GCP (deep knowledge of core services). Infrastructure as Code: Terraform, CloudFormation, Ansible. Containers & Orchestration: Docker, Kubernetes (EKS/AKS/GKE). Automation & DevOps: CI/CD (Jenkins, GitHub Actions), scripting (Python, Bash). Networking & Security: VPC, IAM, encryption, Zero Trust. Monitoring & Logging: Prometheus, Grafana, ELK, Cloud-native tools. Cost Optimization: FinOps, governance, budgeting. High Availability & DR: Multi-r",
+    "job_title": "Senior ML engineer one",
+    "location": "USA",
+    "required_skills": "ML,DL,PYTHON",
+    "salary_range": "100 to 200 euros"
+  },
+  "saved_at": "2025-09-22T13:24:24.698006"
+}

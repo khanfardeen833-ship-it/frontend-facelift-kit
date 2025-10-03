@@ -1,0 +1,55 @@
+RESUME FILTERING SUMMARY REPORT (NO LLM)
+======================================================================
+
+Job Ticket ID: c8c0c0d23e_AI-engineer
+Position: AI engineer
+Report Generated: 2025-09-23T03:40:08.257605
+
+======================================================================
+JOB REQUIREMENTS:
+======================================================================
+Experience: 10 to 15
+Skills: ML, Python
+Location: USA
+Salary: 100 to 200 euros
+Deadline: 2025-09-30
+
+======================================================================
+FILTERING SUMMARY:
+======================================================================
+Total Resumes Submitted: 3
+Unique Candidates: 3
+Duplicate Groups Found: 0
+Final Selected: 3
+
+======================================================================
+TOP CANDIDATES (RANKED):
+======================================================================
+
+1. RAJESH_KUMAR_SHARMA_20250923_033907.pdf
+   Overall Score: 28.0%
+   Skill Match: 50.0% (1/2 skills)
+   Matched Skills: Python
+   Experience: 0 years (Score: 0.0%)
+   Location Match: No
+   Professional Development Score: 20.0%
+   Selection Reason: Moderate skill match; leadership experience
+
+2. Aman_20250923_033947.pdf
+   Overall Score: 0.0%
+   Skill Match: 0.0% (0/2 skills)
+   Matched Skills: 
+   Experience: 0 years (Score: 0.0%)
+   Location Match: No
+   Professional Development Score: 0.0%
+   Selection Reason: Moderate skill match
+
+3. Shubham_20250923_033829.pdf
+   Overall Score: 0.0%
+   Skill Match: 0.0% (0/2 skills)
+   Matched Skills: 
+   Experience: 0 years (Score: 0.0%)
+   Location Match: No
+   Professional Development Score: 0.0%
+   Selection Reason: Moderate skill match
+

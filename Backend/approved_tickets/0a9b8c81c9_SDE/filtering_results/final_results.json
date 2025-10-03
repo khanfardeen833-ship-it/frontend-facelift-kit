@@ -1,0 +1,231 @@
+{
+  "all_ranked_candidates": [
+    {
+      "file_path": "approved_tickets\\0a9b8c81c9_SDE\\Sahil_Khan_20251001_064935.pdf",
+      "filename": "Sahil_Khan_20251001_064935.pdf",
+      "final_score": 0.4,
+      "skill_score": 1.0,
+      "experience_score": 0.0,
+      "location_score": 0.0,
+      "professional_development_score": 0.0,
+      "similarity_score": 0.0,
+      "matched_skills": [
+        "Javascript",
+        "React"
+      ],
+      "detailed_skill_matches": {
+        "Javascript": [
+          "javascript"
+        ],
+        "React": [
+          "react"
+        ]
+      },
+      "detected_experience_years": 0,
+      "professional_development": {
+        "professional_development_score": 0.0,
+        "professional_development_level": "Minimal - Little evidence of continuous learning",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.0,
+            "certification_count": 0,
+            "recent_certification_score": 0.0,
+            "certifications_found": [],
+            "certification_categories": {},
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 0.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [],
+            "github_activity": null
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 0,
+          "certification_categories": [],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": false,
+          "content_types": [],
+          "continuous_learner": false,
+          "key_highlights": []
+        }
+      },
+      "additional_features": {
+        "education_level": 3,
+        "has_certifications": false,
+        "leadership_experience": 0
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "SDE",
+        "required_skills": [
+          "Javascript",
+          "React"
+        ],
+        "required_experience": "2-7 years",
+        "location": "New York"
+      },
+      "candidate_id": "d673ce01b762",
+      "has_duplicates": false,
+      "duplicate_count": 0,
+      "duplicates": [],
+      "exact_skill_bonus": 0.0,
+      "certification_bonus": 0,
+      "leadership_bonus": 0.0,
+      "adjusted_score": 0.4,
+      "final_rank": 1,
+      "is_duplicate_group": false,
+      "selection_reason": "Excellent skill match"
+    },
+    {
+      "file_path": "approved_tickets\\0a9b8c81c9_SDE\\Deep_20251001_065044.pdf",
+      "filename": "Deep_20251001_065044.pdf",
+      "final_score": 0.24000000000000002,
+      "skill_score": 0.5,
+      "experience_score": 0.0,
+      "location_score": 0.0,
+      "professional_development_score": 0.2,
+      "similarity_score": 0.0,
+      "matched_skills": [
+        "React"
+      ],
+      "detailed_skill_matches": {
+        "React": [
+          "react"
+        ]
+      },
+      "detected_experience_years": 0,
+      "professional_development": {
+        "professional_development_score": 0.2,
+        "professional_development_level": "Basic - Limited professional development shown",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.0,
+            "certification_count": 0,
+            "recent_certification_score": 0.0,
+            "certifications_found": [],
+            "certification_categories": {},
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 1.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [
+              "github.com"
+            ],
+            "github_activity": null,
+            "open_source_activity": true
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 0,
+          "certification_categories": [],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": true,
+          "content_types": [
+            "open_source"
+          ],
+          "continuous_learner": false,
+          "key_highlights": [
+            "Active content creator"
+          ]
+        }
+      },
+      "additional_features": {
+        "education_level": 2,
+        "has_certifications": false,
+        "leadership_experience": 2
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "SDE",
+        "required_skills": [
+          "Javascript",
+          "React"
+        ],
+        "required_experience": "2-7 years",
+        "location": "New York"
+      },
+      "candidate_id": "d99b847de762",
+      "has_duplicates": false,
+      "duplicate_count": 0,
+      "duplicates": [],
+      "exact_skill_bonus": 0.0,
+      "certification_bonus": 0,
+      "leadership_bonus": 0.04,
+      "adjusted_score": 0.28,
+      "final_rank": 2,
+      "is_duplicate_group": false,
+      "selection_reason": "Moderate skill match; leadership experience"
+    }
+  ],
+  "selection_criteria": "Algorithmic scoring based on skills, experience, professional development, and additional features",
+  "scoring_method": "Pure algorithmic approach without LLM"
+}

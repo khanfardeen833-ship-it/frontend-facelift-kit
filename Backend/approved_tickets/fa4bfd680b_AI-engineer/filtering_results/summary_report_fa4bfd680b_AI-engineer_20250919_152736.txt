@@ -1,0 +1,85 @@
+RESUME FILTERING SUMMARY REPORT (NO LLM)
+======================================================================
+
+Job Ticket ID: fa4bfd680b_AI-engineer
+Position: AI engineer
+Report Generated: 2025-09-19T15:27:36.722617
+
+======================================================================
+JOB REQUIREMENTS:
+======================================================================
+Experience: 3-7
+Skills: C++, SQL, Python
+Location: Remote
+Salary: 10 to 15 Lakh
+Deadline: 2025-09-19
+
+======================================================================
+FILTERING SUMMARY:
+======================================================================
+Total Resumes Submitted: 6
+Unique Candidates: 0
+Duplicate Groups Found: 0
+Final Selected: 6
+
+======================================================================
+TOP CANDIDATES (RANKED):
+======================================================================
+
+1. Fardeen_Khan_20250919_141046.pdf
+   Overall Score: 87.5%
+   Skill Match: 100.0% (3/3 skills)
+   Matched Skills: Python, SQL, C++
+   Experience: 2 years (Score: 80.0%)
+   Location Match: Yes
+   Professional Development Score: 17.8%
+   Selection Reason: Excellent skill match; good experience level; has relevant certifications; leadership experience
+
+2 (DUPLICATE GROUP). Aman_20250919_141319.pdf
+   Overall Score: 42.7%
+   Skill Match: 66.7% (2/3 skills)
+   Matched Skills: Python, SQL
+   Experience: 0 years (Score: 0.0%)
+   Location Match: Yes
+   Professional Development Score: 20.0%
+   Selection Reason: Good skill match; leadership experience
+   ⚠️  DUPLICATE RESUME: Best of 2 submissions
+   Duplicate files: Sahil_20250919_141244.pdf
+
+2 (DUPLICATE GROUP). Sahil_20250919_141244.pdf
+   Overall Score: 42.7%
+   Skill Match: 66.7% (2/3 skills)
+   Matched Skills: Python, SQL
+   Experience: 0 years (Score: 0.0%)
+   Location Match: Yes
+   Professional Development Score: 20.0%
+   Selection Reason: Good skill match; leadership experience
+   ⚠️  DUPLICATE OF: Aman_20250919_141319.pdf
+
+3. Deep_20250919_143542.pdf
+   Overall Score: 42.7%
+   Skill Match: 66.7% (2/3 skills)
+   Matched Skills: SQL, Python
+   Experience: 0 years (Score: 0.0%)
+   Location Match: Yes
+   Professional Development Score: 20.0%
+   Selection Reason: Good skill match; leadership experience
+
+4. harsh_20250919_141200.pdf
+   Overall Score: 8.0%
+   Skill Match: 0.0% (0/3 skills)
+   Matched Skills: 
+   Experience: 0 years (Score: 0.0%)
+   Location Match: Yes
+   Professional Development Score: 0.0%
+   Selection Reason: Moderate skill match
+
+5. Aman_20250919_152708.pdf
+   Overall Score: 8.0%
+   Skill Match: 0.0% (0/3 skills)
+   Matched Skills: 
+   Experience: 0 years (Score: 0.0%)
+   Location Match: Yes
+   Professional Development Score: 0.0%
+   Selection Reason: Moderate skill match
+

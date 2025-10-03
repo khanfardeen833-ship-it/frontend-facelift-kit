@@ -1,0 +1,1751 @@
+{
+  "ticket_id": "2eb7215c16_gcp-engineer",
+  "position": "gcp engineer",
+  "timestamp": "2025-09-23T08:36:23.614016",
+  "job_status": "new",
+  "requirements_last_updated": "2025-09-23T08:02:22.472891",
+  "latest_requirements": {
+    "experience": "5 years",
+    "tech_stack": [
+      "or Java  Experience with CI/CD tools (Jenkins",
+      "Cloud Functions",
+      "Kubernetes",
+      "Python",
+      "etc.)  Proficiency in SQL",
+      "Dataflow",
+      "GKE",
+      "Strong hands-on experience with GCP services (BigQuery",
+      "Pub/Sub",
+      "or Cloud Build)  Knowledge of Docker",
+      "GitLab"
+    ],
+    "location": "Hawali",
+    "salary": "15 to 20 EUROS",
+    "deadline": "15-10-2025"
+  },
+  "summary": {
+    "total_resumes": 3,
+    "unique_candidates": 3,
+    "duplicate_groups_found": 0,
+    "stage1_selected": 3,
+    "final_selected": 3,
+    "duplicate_banner_message": ""
+  },
+  "duplicate_detection": {
+    "total_resumes_submitted": 3,
+    "unique_candidates": 3,
+    "duplicate_groups_found": 0,
+    "duplicate_groups": []
+  },
+  "stage1_results": {
+    "all_resumes": [
+      {
+        "file_path": "approved_tickets\\2eb7215c16_gcp-engineer\\Fardeen_Khan_20250923_083045.pdf",
+        "filename": "Fardeen_Khan_20250923_083045.pdf",
+        "final_score": 0.41004545454545455,
+        "skill_score": 0.6363636363636364,
+        "experience_score": 0.4,
+        "location_score": 0.0,
+        "professional_development_score": 0.1775,
+        "similarity_score": 0.0420912125093928,
+        "matched_skills": [
+          "or Java  Experience with CI/CD tools (Jenkins",
+          "Cloud Functions",
+          "Python",
+          "etc.)  Proficiency in SQL",
+          "Strong hands-on experience with GCP services (BigQuery",
+          "or Cloud Build)  Knowledge of Docker",
+          "GitLab"
+        ],
+        "detailed_skill_matches": {
+          "or Java  Experience with CI/CD tools (Jenkins": [
+            "java"
+          ],
+          "Cloud Functions": [
+            "cloud functions"
+          ],
+          "Python": [
+            "python"
+          ],
+          "etc.)  Proficiency in SQL": [
+            "sql"
+          ],
+          "Strong hands-on experience with GCP services (BigQuery": [
+            "gcp"
+          ],
+          "or Cloud Build)  Knowledge of Docker": [
+            "docker"
+          ],
+          "GitLab": [
+            "git",
+            "github"
+          ]
+        },
+        "detected_experience_years": 2,
+        "professional_development": {
+          "professional_development_score": 0.1775,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.5071428571428571,
+              "certification_count": 3,
+              "recent_certification_score": 0.0,
+              "certifications_found": [
+                "cks",
+                "ceh",
+                "cka"
+              ],
+              "certification_categories": {
+                "devops": [
+                  "cka",
+                  "cks"
+                ],
+                "security": [
+                  "ceh"
+                ]
+              },
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 3,
+            "certification_categories": [
+              "devops",
+              "security"
+            ],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Has 3 professional certifications"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 2,
+          "has_certifications": true,
+          "leadership_experience": 1
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "gcp engineer",
+          "required_skills": [
+            "or Java  Experience with CI/CD tools (Jenkins",
+            "Cloud Functions",
+            "Kubernetes",
+            "Python",
+            "etc.)  Proficiency in SQL",
+            "Dataflow",
+            "GKE",
+            "Strong hands-on experience with GCP services (BigQuery",
+            "Pub/Sub",
+            "or Cloud Build)  Knowledge of Docker",
+            "GitLab"
+          ],
+          "required_experience": "5 years",
+          "location": "Hawali"
+        },
+        "candidate_id": "23c8e180aae6",
+        "has_duplicates": false,
+        "duplicate_count": 0,
+        "duplicates": [],
+        "exact_skill_bonus": 0.0,
+        "certification_bonus": 0.1,
+        "leadership_bonus": 0.02,
+        "adjusted_score": 0.5300454545454546,
+        "final_rank": 1,
+        "is_duplicate_group": false,
+        "selection_reason": "Good skill match; has relevant certifications; leadership experience"
+      },
+      {
+        "file_path": "approved_tickets\\2eb7215c16_gcp-engineer\\RAJESH_KUMAR_SHARMA_20250923_083505.pdf",
+        "filename": "RAJESH_KUMAR_SHARMA_20250923_083505.pdf",
+        "final_score": 0.18545454545454548,
+        "skill_score": 0.36363636363636365,
+        "experience_score": 0.0,
+        "location_score": 0.0,
+        "professional_development_score": 0.2,
+        "similarity_score": 0.042229040478806545,
+        "matched_skills": [
+          "Kubernetes",
+          "Python",
+          "etc.)  Proficiency in SQL",
+          "GitLab"
+        ],
+        "detailed_skill_matches": {
+          "Kubernetes": [
+            "kubernetes"
+          ],
+          "Python": [
+            "python"
+          ],
+          "etc.)  Proficiency in SQL": [
+            "sql"
+          ],
+          "GitLab": [
+            "git",
+            "github"
+          ]
+        },
+        "detected_experience_years": 0,
+        "professional_development": {
+          "professional_development_score": 0.2,
+          "professional_development_level": "Basic - Limited professional development shown",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 1.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [
+                "github.com"
+              ],
+              "github_activity": null,
+              "open_source_activity": true
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": true,
+            "content_types": [
+              "open_source"
+            ],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Active content creator"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 2,
+          "has_certifications": false,
+          "leadership_experience": 2
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "gcp engineer",
+          "required_skills": [
+            "or Java  Experience with CI/CD tools (Jenkins",
+            "Cloud Functions",
+            "Kubernetes",
+            "Python",
+            "etc.)  Proficiency in SQL",
+            "Dataflow",
+            "GKE",
+            "Strong hands-on experience with GCP services (BigQuery",
+            "Pub/Sub",
+            "or Cloud Build)  Knowledge of Docker",
+            "GitLab"
+          ],
+          "required_experience": "5 years",
+          "location": "Hawali"
+        },
+        "candidate_id": "69ac3c7998d1",
+        "has_duplicates": false,
+        "duplicate_count": 0,
+        "duplicates": [],
+        "exact_skill_bonus": 0.0,
+        "certification_bonus": 0,
+        "leadership_bonus": 0.04,
+        "adjusted_score": 0.2254545454545455,
+        "final_rank": 2,
+        "is_duplicate_group": false,
+        "selection_reason": "Moderate skill match; leadership experience"
+      },
+      {
+        "file_path": "approved_tickets\\2eb7215c16_gcp-engineer\\Shubham_20250923_083121.pdf",
+        "filename": "Shubham_20250923_083121.pdf",
+        "final_score": 0.10909090909090909,
+        "skill_score": 0.2727272727272727,
+        "experience_score": 0.0,
+        "location_score": 0.0,
+        "professional_development_score": 0.0,
+        "similarity_score": 0.02875782703876661,
+        "matched_skills": [
+          "or Java  Experience with CI/CD tools (Jenkins",
+          "or Cloud Build)  Knowledge of Docker",
+          "GitLab"
+        ],
+        "detailed_skill_matches": {
+          "or Java  Experience with CI/CD tools (Jenkins": [
+            "java"
+          ],
+          "or Cloud Build)  Knowledge of Docker": [
+            "docker"
+          ],
+          "GitLab": [
+            "git"
+          ]
+        },
+        "detected_experience_years": 0,
+        "professional_development": {
+          "professional_development_score": 0.0,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": false,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "gcp engineer",
+          "required_skills": [
+            "or Java  Experience with CI/CD tools (Jenkins",
+            "Cloud Functions",
+            "Kubernetes",
+            "Python",
+            "etc.)  Proficiency in SQL",
+            "Dataflow",
+            "GKE",
+            "Strong hands-on experience with GCP services (BigQuery",
+            "Pub/Sub",
+            "or Cloud Build)  Knowledge of Docker",
+            "GitLab"
+          ],
+          "required_experience": "5 years",
+          "location": "Hawali"
+        },
+        "candidate_id": "a9e87094751c",
+        "has_duplicates": false,
+        "duplicate_count": 0,
+        "duplicates": [],
+        "exact_skill_bonus": 0.0,
+        "certification_bonus": 0,
+        "leadership_bonus": 0.0,
+        "adjusted_score": 0.10909090909090909,
+        "final_rank": 3,
+        "is_duplicate_group": false,
+        "selection_reason": "Moderate skill match"
+      }
+    ],
+    "all_ranked_candidates": [
+      {
+        "file_path": "approved_tickets\\2eb7215c16_gcp-engineer\\Fardeen_Khan_20250923_083045.pdf",
+        "filename": "Fardeen_Khan_20250923_083045.pdf",
+        "final_score": 0.41004545454545455,
+        "skill_score": 0.6363636363636364,
+        "experience_score": 0.4,
+        "location_score": 0.0,
+        "professional_development_score": 0.1775,
+        "similarity_score": 0.0420912125093928,
+        "matched_skills": [
+          "or Java  Experience with CI/CD tools (Jenkins",
+          "Cloud Functions",
+          "Python",
+          "etc.)  Proficiency in SQL",
+          "Strong hands-on experience with GCP services (BigQuery",
+          "or Cloud Build)  Knowledge of Docker",
+          "GitLab"
+        ],
+        "detailed_skill_matches": {
+          "or Java  Experience with CI/CD tools (Jenkins": [
+            "java"
+          ],
+          "Cloud Functions": [
+            "cloud functions"
+          ],
+          "Python": [
+            "python"
+          ],
+          "etc.)  Proficiency in SQL": [
+            "sql"
+          ],
+          "Strong hands-on experience with GCP services (BigQuery": [
+            "gcp"
+          ],
+          "or Cloud Build)  Knowledge of Docker": [
+            "docker"
+          ],
+          "GitLab": [
+            "git",
+            "github"
+          ]
+        },
+        "detected_experience_years": 2,
+        "professional_development": {
+          "professional_development_score": 0.1775,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.5071428571428571,
+              "certification_count": 3,
+              "recent_certification_score": 0.0,
+              "certifications_found": [
+                "cks",
+                "ceh",
+                "cka"
+              ],
+              "certification_categories": {
+                "devops": [
+                  "cka",
+                  "cks"
+                ],
+                "security": [
+                  "ceh"
+                ]
+              },
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 3,
+            "certification_categories": [
+              "devops",
+              "security"
+            ],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Has 3 professional certifications"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 2,
+          "has_certifications": true,
+          "leadership_experience": 1
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "gcp engineer",
+          "required_skills": [
+            "or Java  Experience with CI/CD tools (Jenkins",
+            "Cloud Functions",
+            "Kubernetes",
+            "Python",
+            "etc.)  Proficiency in SQL",
+            "Dataflow",
+            "GKE",
+            "Strong hands-on experience with GCP services (BigQuery",
+            "Pub/Sub",
+            "or Cloud Build)  Knowledge of Docker",
+            "GitLab"
+          ],
+          "required_experience": "5 years",
+          "location": "Hawali"
+        },
+        "candidate_id": "23c8e180aae6",
+        "has_duplicates": false,
+        "duplicate_count": 0,
+        "duplicates": [],
+        "exact_skill_bonus": 0.0,
+        "certification_bonus": 0.1,
+        "leadership_bonus": 0.02,
+        "adjusted_score": 0.5300454545454546,
+        "final_rank": 1,
+        "is_duplicate_group": false,
+        "selection_reason": "Good skill match; has relevant certifications; leadership experience"
+      },
+      {
+        "file_path": "approved_tickets\\2eb7215c16_gcp-engineer\\RAJESH_KUMAR_SHARMA_20250923_083505.pdf",
+        "filename": "RAJESH_KUMAR_SHARMA_20250923_083505.pdf",
+        "final_score": 0.18545454545454548,
+        "skill_score": 0.36363636363636365,
+        "experience_score": 0.0,
+        "location_score": 0.0,
+        "professional_development_score": 0.2,
+        "similarity_score": 0.042229040478806545,
+        "matched_skills": [
+          "Kubernetes",
+          "Python",
+          "etc.)  Proficiency in SQL",
+          "GitLab"
+        ],
+        "detailed_skill_matches": {
+          "Kubernetes": [
+            "kubernetes"
+          ],
+          "Python": [
+            "python"
+          ],
+          "etc.)  Proficiency in SQL": [
+            "sql"
+          ],
+          "GitLab": [
+            "git",
+            "github"
+          ]
+        },
+        "detected_experience_years": 0,
+        "professional_development": {
+          "professional_development_score": 0.2,
+          "professional_development_level": "Basic - Limited professional development shown",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 1.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [
+                "github.com"
+              ],
+              "github_activity": null,
+              "open_source_activity": true
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": true,
+            "content_types": [
+              "open_source"
+            ],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Active content creator"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 2,
+          "has_certifications": false,
+          "leadership_experience": 2
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "gcp engineer",
+          "required_skills": [
+            "or Java  Experience with CI/CD tools (Jenkins",
+            "Cloud Functions",
+            "Kubernetes",
+            "Python",
+            "etc.)  Proficiency in SQL",
+            "Dataflow",
+            "GKE",
+            "Strong hands-on experience with GCP services (BigQuery",
+            "Pub/Sub",
+            "or Cloud Build)  Knowledge of Docker",
+            "GitLab"
+          ],
+          "required_experience": "5 years",
+          "location": "Hawali"
+        },
+        "candidate_id": "69ac3c7998d1",
+        "has_duplicates": false,
+        "duplicate_count": 0,
+        "duplicates": [],
+        "exact_skill_bonus": 0.0,
+        "certification_bonus": 0,
+        "leadership_bonus": 0.04,
+        "adjusted_score": 0.2254545454545455,
+        "final_rank": 2,
+        "is_duplicate_group": false,
+        "selection_reason": "Moderate skill match; leadership experience"
+      },
+      {
+        "file_path": "approved_tickets\\2eb7215c16_gcp-engineer\\Shubham_20250923_083121.pdf",
+        "filename": "Shubham_20250923_083121.pdf",
+        "final_score": 0.10909090909090909,
+        "skill_score": 0.2727272727272727,
+        "experience_score": 0.0,
+        "location_score": 0.0,
+        "professional_development_score": 0.0,
+        "similarity_score": 0.02875782703876661,
+        "matched_skills": [
+          "or Java  Experience with CI/CD tools (Jenkins",
+          "or Cloud Build)  Knowledge of Docker",
+          "GitLab"
+        ],
+        "detailed_skill_matches": {
+          "or Java  Experience with CI/CD tools (Jenkins": [
+            "java"
+          ],
+          "or Cloud Build)  Knowledge of Docker": [
+            "docker"
+          ],
+          "GitLab": [
+            "git"
+          ]
+        },
+        "detected_experience_years": 0,
+        "professional_development": {
+          "professional_development_score": 0.0,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": false,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "gcp engineer",
+          "required_skills": [
+            "or Java  Experience with CI/CD tools (Jenkins",
+            "Cloud Functions",
+            "Kubernetes",
+            "Python",
+            "etc.)  Proficiency in SQL",
+            "Dataflow",
+            "GKE",
+            "Strong hands-on experience with GCP services (BigQuery",
+            "Pub/Sub",
+            "or Cloud Build)  Knowledge of Docker",
+            "GitLab"
+          ],
+          "required_experience": "5 years",
+          "location": "Hawali"
+        },
+        "candidate_id": "a9e87094751c",
+        "has_duplicates": false,
+        "duplicate_count": 0,
+        "duplicates": [],
+        "exact_skill_bonus": 0.0,
+        "certification_bonus": 0,
+        "leadership_bonus": 0.0,
+        "adjusted_score": 0.10909090909090909,
+        "final_rank": 3,
+        "is_duplicate_group": false,
+        "selection_reason": "Moderate skill match"
+      }
+    ],
+    "scoring_criteria": {
+      "skills_required": [
+        "or Java  Experience with CI/CD tools (Jenkins",
+        "Cloud Functions",
+        "Kubernetes",
+        "Python",
+        "etc.)  Proficiency in SQL",
+        "Dataflow",
+        "GKE",
+        "Strong hands-on experience with GCP services (BigQuery",
+        "Pub/Sub",
+        "or Cloud Build)  Knowledge of Docker",
+        "GitLab"
+      ],
+      "experience_range": "5 years",
+      "location": "Hawali"
+    },
+    "duplicate_summary": {
+      "total_resumes_submitted": 3,
+      "unique_candidates": 3,
+      "duplicate_groups_found": 0,
+      "duplicate_groups": []
+    },
+    "unique_candidates": 3,
+    "duplicate_groups_count": 0
+  },
+  "final_results": {
+    "all_ranked_candidates": [
+      {
+        "file_path": "approved_tickets\\2eb7215c16_gcp-engineer\\Fardeen_Khan_20250923_083045.pdf",
+        "filename": "Fardeen_Khan_20250923_083045.pdf",
+        "final_score": 0.41004545454545455,
+        "skill_score": 0.6363636363636364,
+        "experience_score": 0.4,
+        "location_score": 0.0,
+        "professional_development_score": 0.1775,
+        "similarity_score": 0.0420912125093928,
+        "matched_skills": [
+          "or Java  Experience with CI/CD tools (Jenkins",
+          "Cloud Functions",
+          "Python",
+          "etc.)  Proficiency in SQL",
+          "Strong hands-on experience with GCP services (BigQuery",
+          "or Cloud Build)  Knowledge of Docker",
+          "GitLab"
+        ],
+        "detailed_skill_matches": {
+          "or Java  Experience with CI/CD tools (Jenkins": [
+            "java"
+          ],
+          "Cloud Functions": [
+            "cloud functions"
+          ],
+          "Python": [
+            "python"
+          ],
+          "etc.)  Proficiency in SQL": [
+            "sql"
+          ],
+          "Strong hands-on experience with GCP services (BigQuery": [
+            "gcp"
+          ],
+          "or Cloud Build)  Knowledge of Docker": [
+            "docker"
+          ],
+          "GitLab": [
+            "git",
+            "github"
+          ]
+        },
+        "detected_experience_years": 2,
+        "professional_development": {
+          "professional_development_score": 0.1775,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.5071428571428571,
+              "certification_count": 3,
+              "recent_certification_score": 0.0,
+              "certifications_found": [
+                "cks",
+                "ceh",
+                "cka"
+              ],
+              "certification_categories": {
+                "devops": [
+                  "cka",
+                  "cks"
+                ],
+                "security": [
+                  "ceh"
+                ]
+              },
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 3,
+            "certification_categories": [
+              "devops",
+              "security"
+            ],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Has 3 professional certifications"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 2,
+          "has_certifications": true,
+          "leadership_experience": 1
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "gcp engineer",
+          "required_skills": [
+            "or Java  Experience with CI/CD tools (Jenkins",
+            "Cloud Functions",
+            "Kubernetes",
+            "Python",
+            "etc.)  Proficiency in SQL",
+            "Dataflow",
+            "GKE",
+            "Strong hands-on experience with GCP services (BigQuery",
+            "Pub/Sub",
+            "or Cloud Build)  Knowledge of Docker",
+            "GitLab"
+          ],
+          "required_experience": "5 years",
+          "location": "Hawali"
+        },
+        "candidate_id": "23c8e180aae6",
+        "has_duplicates": false,
+        "duplicate_count": 0,
+        "duplicates": [],
+        "exact_skill_bonus": 0.0,
+        "certification_bonus": 0.1,
+        "leadership_bonus": 0.02,
+        "adjusted_score": 0.5300454545454546,
+        "final_rank": 1,
+        "is_duplicate_group": false,
+        "selection_reason": "Good skill match; has relevant certifications; leadership experience"
+      },
+      {
+        "file_path": "approved_tickets\\2eb7215c16_gcp-engineer\\RAJESH_KUMAR_SHARMA_20250923_083505.pdf",
+        "filename": "RAJESH_KUMAR_SHARMA_20250923_083505.pdf",
+        "final_score": 0.18545454545454548,
+        "skill_score": 0.36363636363636365,
+        "experience_score": 0.0,
+        "location_score": 0.0,
+        "professional_development_score": 0.2,
+        "similarity_score": 0.042229040478806545,
+        "matched_skills": [
+          "Kubernetes",
+          "Python",
+          "etc.)  Proficiency in SQL",
+          "GitLab"
+        ],
+        "detailed_skill_matches": {
+          "Kubernetes": [
+            "kubernetes"
+          ],
+          "Python": [
+            "python"
+          ],
+          "etc.)  Proficiency in SQL": [
+            "sql"
+          ],
+          "GitLab": [
+            "git",
+            "github"
+          ]
+        },
+        "detected_experience_years": 0,
+        "professional_development": {
+          "professional_development_score": 0.2,
+          "professional_development_level": "Basic - Limited professional development shown",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 1.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [
+                "github.com"
+              ],
+              "github_activity": null,
+              "open_source_activity": true
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": true,
+            "content_types": [
+              "open_source"
+            ],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Active content creator"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 2,
+          "has_certifications": false,
+          "leadership_experience": 2
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "gcp engineer",
+          "required_skills": [
+            "or Java  Experience with CI/CD tools (Jenkins",
+            "Cloud Functions",
+            "Kubernetes",
+            "Python",
+            "etc.)  Proficiency in SQL",
+            "Dataflow",
+            "GKE",
+            "Strong hands-on experience with GCP services (BigQuery",
+            "Pub/Sub",
+            "or Cloud Build)  Knowledge of Docker",
+            "GitLab"
+          ],
+          "required_experience": "5 years",
+          "location": "Hawali"
+        },
+        "candidate_id": "69ac3c7998d1",
+        "has_duplicates": false,
+        "duplicate_count": 0,
+        "duplicates": [],
+        "exact_skill_bonus": 0.0,
+        "certification_bonus": 0,
+        "leadership_bonus": 0.04,
+        "adjusted_score": 0.2254545454545455,
+        "final_rank": 2,
+        "is_duplicate_group": false,
+        "selection_reason": "Moderate skill match; leadership experience"
+      },
+      {
+        "file_path": "approved_tickets\\2eb7215c16_gcp-engineer\\Shubham_20250923_083121.pdf",
+        "filename": "Shubham_20250923_083121.pdf",
+        "final_score": 0.10909090909090909,
+        "skill_score": 0.2727272727272727,
+        "experience_score": 0.0,
+        "location_score": 0.0,
+        "professional_development_score": 0.0,
+        "similarity_score": 0.02875782703876661,
+        "matched_skills": [
+          "or Java  Experience with CI/CD tools (Jenkins",
+          "or Cloud Build)  Knowledge of Docker",
+          "GitLab"
+        ],
+        "detailed_skill_matches": {
+          "or Java  Experience with CI/CD tools (Jenkins": [
+            "java"
+          ],
+          "or Cloud Build)  Knowledge of Docker": [
+            "docker"
+          ],
+          "GitLab": [
+            "git"
+          ]
+        },
+        "detected_experience_years": 0,
+        "professional_development": {
+          "professional_development_score": 0.0,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": false,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "gcp engineer",
+          "required_skills": [
+            "or Java  Experience with CI/CD tools (Jenkins",
+            "Cloud Functions",
+            "Kubernetes",
+            "Python",
+            "etc.)  Proficiency in SQL",
+            "Dataflow",
+            "GKE",
+            "Strong hands-on experience with GCP services (BigQuery",
+            "Pub/Sub",
+            "or Cloud Build)  Knowledge of Docker",
+            "GitLab"
+          ],
+          "required_experience": "5 years",
+          "location": "Hawali"
+        },
+        "candidate_id": "a9e87094751c",
+        "has_duplicates": false,
+        "duplicate_count": 0,
+        "duplicates": [],
+        "exact_skill_bonus": 0.0,
+        "certification_bonus": 0,
+        "leadership_bonus": 0.0,
+        "adjusted_score": 0.10909090909090909,
+        "final_rank": 3,
+        "is_duplicate_group": false,
+        "selection_reason": "Moderate skill match"
+      }
+    ],
+    "selection_criteria": "Algorithmic scoring based on skills, experience, professional development, and additional features",
+    "scoring_method": "Pure algorithmic approach without LLM"
+  },
+  "all_ranked_candidates": [
+    {
+      "file_path": "approved_tickets\\2eb7215c16_gcp-engineer\\Fardeen_Khan_20250923_083045.pdf",
+      "filename": "Fardeen_Khan_20250923_083045.pdf",
+      "final_score": 0.41004545454545455,
+      "skill_score": 0.6363636363636364,
+      "experience_score": 0.4,
+      "location_score": 0.0,
+      "professional_development_score": 0.1775,
+      "similarity_score": 0.0420912125093928,
+      "matched_skills": [
+        "or Java  Experience with CI/CD tools (Jenkins",
+        "Cloud Functions",
+        "Python",
+        "etc.)  Proficiency in SQL",
+        "Strong hands-on experience with GCP services (BigQuery",
+        "or Cloud Build)  Knowledge of Docker",
+        "GitLab"
+      ],
+      "detailed_skill_matches": {
+        "or Java  Experience with CI/CD tools (Jenkins": [
+          "java"
+        ],
+        "Cloud Functions": [
+          "cloud functions"
+        ],
+        "Python": [
+          "python"
+        ],
+        "etc.)  Proficiency in SQL": [
+          "sql"
+        ],
+        "Strong hands-on experience with GCP services (BigQuery": [
+          "gcp"
+        ],
+        "or Cloud Build)  Knowledge of Docker": [
+          "docker"
+        ],
+        "GitLab": [
+          "git",
+          "github"
+        ]
+      },
+      "detected_experience_years": 2,
+      "professional_development": {
+        "professional_development_score": 0.1775,
+        "professional_development_level": "Minimal - Little evidence of continuous learning",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.5071428571428571,
+            "certification_count": 3,
+            "recent_certification_score": 0.0,
+            "certifications_found": [
+              "cks",
+              "ceh",
+              "cka"
+            ],
+            "certification_categories": {
+              "devops": [
+                "cka",
+                "cks"
+              ],
+              "security": [
+                "ceh"
+              ]
+            },
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 0.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [],
+            "github_activity": null
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 3,
+          "certification_categories": [
+            "devops",
+            "security"
+          ],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": false,
+          "content_types": [],
+          "continuous_learner": false,
+          "key_highlights": [
+            "Has 3 professional certifications"
+          ]
+        }
+      },
+      "additional_features": {
+        "education_level": 2,
+        "has_certifications": true,
+        "leadership_experience": 1
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "gcp engineer",
+        "required_skills": [
+          "or Java  Experience with CI/CD tools (Jenkins",
+          "Cloud Functions",
+          "Kubernetes",
+          "Python",
+          "etc.)  Proficiency in SQL",
+          "Dataflow",
+          "GKE",
+          "Strong hands-on experience with GCP services (BigQuery",
+          "Pub/Sub",
+          "or Cloud Build)  Knowledge of Docker",
+          "GitLab"
+        ],
+        "required_experience": "5 years",
+        "location": "Hawali"
+      },
+      "candidate_id": "23c8e180aae6",
+      "has_duplicates": false,
+      "duplicate_count": 0,
+      "duplicates": [],
+      "exact_skill_bonus": 0.0,
+      "certification_bonus": 0.1,
+      "leadership_bonus": 0.02,
+      "adjusted_score": 0.5300454545454546,
+      "final_rank": 1,
+      "is_duplicate_group": false,
+      "selection_reason": "Good skill match; has relevant certifications; leadership experience"
+    },
+    {
+      "file_path": "approved_tickets\\2eb7215c16_gcp-engineer\\RAJESH_KUMAR_SHARMA_20250923_083505.pdf",
+      "filename": "RAJESH_KUMAR_SHARMA_20250923_083505.pdf",
+      "final_score": 0.18545454545454548,
+      "skill_score": 0.36363636363636365,
+      "experience_score": 0.0,
+      "location_score": 0.0,
+      "professional_development_score": 0.2,
+      "similarity_score": 0.042229040478806545,
+      "matched_skills": [
+        "Kubernetes",
+        "Python",
+        "etc.)  Proficiency in SQL",
+        "GitLab"
+      ],
+      "detailed_skill_matches": {
+        "Kubernetes": [
+          "kubernetes"
+        ],
+        "Python": [
+          "python"
+        ],
+        "etc.)  Proficiency in SQL": [
+          "sql"
+        ],
+        "GitLab": [
+          "git",
+          "github"
+        ]
+      },
+      "detected_experience_years": 0,
+      "professional_development": {
+        "professional_development_score": 0.2,
+        "professional_development_level": "Basic - Limited professional development shown",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.0,
+            "certification_count": 0,
+            "recent_certification_score": 0.0,
+            "certifications_found": [],
+            "certification_categories": {},
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 1.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [
+              "github.com"
+            ],
+            "github_activity": null,
+            "open_source_activity": true
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 0,
+          "certification_categories": [],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": true,
+          "content_types": [
+            "open_source"
+          ],
+          "continuous_learner": false,
+          "key_highlights": [
+            "Active content creator"
+          ]
+        }
+      },
+      "additional_features": {
+        "education_level": 2,
+        "has_certifications": false,
+        "leadership_experience": 2
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "gcp engineer",
+        "required_skills": [
+          "or Java  Experience with CI/CD tools (Jenkins",
+          "Cloud Functions",
+          "Kubernetes",
+          "Python",
+          "etc.)  Proficiency in SQL",
+          "Dataflow",
+          "GKE",
+          "Strong hands-on experience with GCP services (BigQuery",
+          "Pub/Sub",
+          "or Cloud Build)  Knowledge of Docker",
+          "GitLab"
+        ],
+        "required_experience": "5 years",
+        "location": "Hawali"
+      },
+      "candidate_id": "69ac3c7998d1",
+      "has_duplicates": false,
+      "duplicate_count": 0,
+      "duplicates": [],
+      "exact_skill_bonus": 0.0,
+      "certification_bonus": 0,
+      "leadership_bonus": 0.04,
+      "adjusted_score": 0.2254545454545455,
+      "final_rank": 2,
+      "is_duplicate_group": false,
+      "selection_reason": "Moderate skill match; leadership experience"
+    },
+    {
+      "file_path": "approved_tickets\\2eb7215c16_gcp-engineer\\Shubham_20250923_083121.pdf",
+      "filename": "Shubham_20250923_083121.pdf",
+      "final_score": 0.10909090909090909,
+      "skill_score": 0.2727272727272727,
+      "experience_score": 0.0,
+      "location_score": 0.0,
+      "professional_development_score": 0.0,
+      "similarity_score": 0.02875782703876661,
+      "matched_skills": [
+        "or Java  Experience with CI/CD tools (Jenkins",
+        "or Cloud Build)  Knowledge of Docker",
+        "GitLab"
+      ],
+      "detailed_skill_matches": {
+        "or Java  Experience with CI/CD tools (Jenkins": [
+          "java"
+        ],
+        "or Cloud Build)  Knowledge of Docker": [
+          "docker"
+        ],
+        "GitLab": [
+          "git"
+        ]
+      },
+      "detected_experience_years": 0,
+      "professional_development": {
+        "professional_development_score": 0.0,
+        "professional_development_level": "Minimal - Little evidence of continuous learning",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.0,
+            "certification_count": 0,
+            "recent_certification_score": 0.0,
+            "certifications_found": [],
+            "certification_categories": {},
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 0.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [],
+            "github_activity": null
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 0,
+          "certification_categories": [],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": false,
+          "content_types": [],
+          "continuous_learner": false,
+          "key_highlights": []
+        }
+      },
+      "additional_features": {
+        "education_level": 3,
+        "has_certifications": false,
+        "leadership_experience": 0
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "gcp engineer",
+        "required_skills": [
+          "or Java  Experience with CI/CD tools (Jenkins",
+          "Cloud Functions",
+          "Kubernetes",
+          "Python",
+          "etc.)  Proficiency in SQL",
+          "Dataflow",
+          "GKE",
+          "Strong hands-on experience with GCP services (BigQuery",
+          "Pub/Sub",
+          "or Cloud Build)  Knowledge of Docker",
+          "GitLab"
+        ],
+        "required_experience": "5 years",
+        "location": "Hawali"
+      },
+      "candidate_id": "a9e87094751c",
+      "has_duplicates": false,
+      "duplicate_count": 0,
+      "duplicates": [],
+      "exact_skill_bonus": 0.0,
+      "certification_bonus": 0,
+      "leadership_bonus": 0.0,
+      "adjusted_score": 0.10909090909090909,
+      "final_rank": 3,
+      "is_duplicate_group": false,
+      "selection_reason": "Moderate skill match"
+    }
+  ]
+}

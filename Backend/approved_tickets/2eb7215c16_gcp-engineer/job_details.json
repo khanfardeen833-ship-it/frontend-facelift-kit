@@ -1,0 +1,33 @@
+{
+  "ticket_info": {
+    "ticket_id": "2eb7215c16",
+    "source": "chat",
+    "sender": "user_6851b9c3bc27865e",
+    "user_id": "user_6851b9c3bc27865e",
+    "subject": "gcp engineer",
+    "session_id": "f48c39f6-780d-46ba-9377-354b862c925a",
+    "created_at": "2025-09-23T06:54:14",
+    "last_updated": "2025-09-23T06:57:29",
+    "status": "new",
+    "approval_status": "approved",
+    "approved": 1,
+    "approved_at": "2025-09-23T06:57:29",
+    "approval_token": null,
+    "terminated_at": null,
+    "terminated_by": null,
+    "termination_reason": null,
+    "rejected_at": null,
+    "rejection_reason": null
+  },
+  "job_details": {
+    "deadline": "15-10-2025",
+    "employment_type": "Contract",
+    "experience_required": "5 years",
+    "job_description": "We are seeking an experienced GCP Engineer to join our team. The candidate will be responsible for designing, developing, and maintaining cloud-based solutions on Google Cloud Platform (GCP). The role requires strong knowledge of cloud infrastructure, data services, and DevOps practices.  Key Responsibilities:  Design and deploy scalable and secure cloud architectures in GCP  Manage GCP services such as BigQuery, Dataflow, Cloud Storage, Pub/Sub, and Compute Engine  Implement CI/CD pipelines and automate infrastructure using Terraform/Deployment Manager  Monitor system performance, optimize costs, and ensure security compliance  Collaborate with cross-functional teams (Data Engineers, Developers, and DevOps) to deliver cloud solutions",
+    "job_title": "gcp engineer",
+    "location": "Hawali",
+    "required_skills": "Strong hands-on experience with GCP services (BigQuery, Cloud Functions, Dataflow, Pub/Sub, etc.)  Proficiency in SQL, Python, or Java  Experience with CI/CD tools (Jenkins, GitLab, or Cloud Build)  Knowledge of Docker, Kubernetes (GKE)  Familiarity with cloud security best practices  Excellent problem-solving and communication skills",
+    "salary_range": "15 to 20 EUROS"
+  },
+  "saved_at": "2025-09-29T19:10:39.535032"
+}

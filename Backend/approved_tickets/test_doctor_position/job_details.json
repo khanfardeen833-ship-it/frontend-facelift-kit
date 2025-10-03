@@ -1,0 +1,19 @@
+{
+  "ticket_info": {
+    "ticket_id": "test_doctor_001",
+    "status": "active",
+    "created_at": "2025-09-30T07:15:00",
+    "approval_status": "approved"
+  },
+  "job_details": {
+    "job_title": "Cardiologist - Internal Medicine",
+    "company_name": "City General Hospital",
+    "job_description": "We are seeking a board-certified Cardiologist to join our growing Internal Medicine department. The ideal candidate will have extensive experience in diagnosing and treating cardiovascular diseases, performing non-invasive cardiac procedures (echocardiography, stress tests), and managing a diverse patient population. Must have excellent clinical skills, strong communication abilities, and commitment to patient-centered care. Experience with electronic medical records (EMR/EHR systems) required. HIPAA compliance and state medical license mandatory. On-call responsibilities included.",
+    "required_skills": "Board Certification in Cardiology, Internal Medicine, Echocardiography, Stress Testing, Patient Care, EMR/EHR Systems, HIPAA Compliance, Clinical Diagnosis, Cardiovascular Disease Management, Medical Research",
+    "experience_required": "5-8 years post-residency",
+    "location": "New York, USA",
+    "salary_range": "$250,000 - $400,000 per year",
+    "employment_type": "Full-time",
+    "deadline": "31/01/2026"
+  }
+}
